@@ -1,0 +1,12 @@
+{shop_name}
+
+Bonjour {firstname} {lastname}
+
+Merci d'avoir créé votre compte client dans notre magasin, {store_name}.
+Vous pouvez dès à présent vous connecter sur notre site {shop_name}, avec vos codes d'accès ci-dessous:
+
+Adresse e-mail : {email}
+
+Mot de passe : {passwd}
+
+A bientôt sur notre site internet {shop_name}.

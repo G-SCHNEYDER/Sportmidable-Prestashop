@@ -1,0 +1,9 @@
+DATETIME,ERRORLEVEL,TAG,VALUE,LINE,FILE
+"2022-08-16 15:58:11",INFO,--,"Order state: cancelled",133,/home/boutique/public_html/modules/payplug/src/repositories/OrderStateRepository.php
+"2022-08-16 15:58:11",INFO,--,"Order state: cancelled - test",133,/home/boutique/public_html/modules/payplug/src/repositories/OrderStateRepository.php
+"2022-08-16 15:58:11",INFO,--,"Creating new order state.",84,/home/boutique/public_html/modules/payplug/src/repositories/OrderStateRepository.php
+"2022-08-16 15:58:11",INFO,--,"State created with id: 63",116,/home/boutique/public_html/modules/payplug/src/repositories/OrderStateRepository.php
+"2022-09-28 16:17:15",INFO,--,"Order state: cancelled",133,/home/boutique/public_html/modules/payplug/src/repositories/OrderStateRepository.php
+"2022-09-28 16:17:15",INFO,--,"Order state: cancelled - test",133,/home/boutique/public_html/modules/payplug/src/repositories/OrderStateRepository.php
+"2022-09-28 16:17:15",INFO,--,"Creating new order state.",84,/home/boutique/public_html/modules/payplug/src/repositories/OrderStateRepository.php
+"2022-09-28 16:17:15",INFO,--,"State created with id: 65",116,/home/boutique/public_html/modules/payplug/src/repositories/OrderStateRepository.php

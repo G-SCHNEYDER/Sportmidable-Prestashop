@@ -1,0 +1,26 @@
+Customer ID;Active (0/1);Titles ID (Mr = 1, Ms = 2, else 0);Email *;Password *;Last Name *;First Name *;Newsletter (0/1);Registration date (yyyy-mm-dd);Groups (x,y,z...);Default group ID;ID ou nom de la boutique
+;1;0;"nathalie.fumey@gmail.com
+";abcd12345;Fumey;Nora;1;22/6/2023;;34;136
+;1;0;"b-cedric@orange.fr
+";abcd12345;Bouillet;Tom;1;22/6/2023;;34;136
+;1;0;berthod.milene@neuf.fr;abcd12345;Bouillet;Elsa;1;22/6/2023;;34;136
+;1;0;clementcoralie78@gmail.com;abcd12345;Clement;Oscar;1;22/6/2023;;34;136
+;1;0;leandre.bohard@gmail.com;abcd12345;BOHARD;Léandre;1;22/6/2023;;35;136
+;1;0;christine.parissi1207@gmail.com;abcd12345;BUNOD;Joachim;1;22/6/2023;;35;136
+;1;0;gaetanebreniaux@icloud.com;abcd12345;BRENIAUX;Gaetane;1;22/6/2023;;35;136
+;1;0;calixant@hotmail.fr;abcd12345;JEUNET;Jeannie;1;22/6/2023;;35;136
+;1;0;aniajpgrand@wanadoo.fr;abcd12345;GRAND;Oksana;1;22/6/2023;;35;136
+;1;0;c_grosrey@hotmail.com;abcd12345;GUIENNET;Nathan;1;22/6/2023;;35;136
+;1;0;gardettearthur01@gmail.com;abcd12345;GARDETTE;Arthur;1;22/6/2023;;35;136
+;1;0;amelie.morel@wanadoo.fr;abcd12345;MARTIN;Alice;1;22/6/2023;;35;136
+;1;0;laurencepasteur@orange.fr;abcd12345;PASTEUR;Thibaut;1;22/6/2023;;35;136
+;1;0;manechvernerey@gmail.com;abcd12345;VERNEREY;Manech;1;22/6/2023;;35;136
+;1;0;reghis2@orange.fr;abcd12345;PONARD;Nathan;1;22/6/2023;;35;136
+;1;0;verjus.aurelie@gmail.com;abcd12345;VERJUS;Eline;1;22/6/2023;;35;136
+;1;0;schmidtsylvain@hotmail.fr;abcd12345;SCHMIDT;Léonie;1;22/6/2023;;35;136
+;1;0;carolinebaillysalins@gmail.com;abcd12345;BAILLY SALINS;Mélissa;1;22/6/2023;;35;136
+;1;0;grasluc@orange.fr;abcd12345;GRAS;Iloan;1;22/6/2023;;35;136
+;1;0;audreymorelbazin@gmail.com;abcd12345;BAZIN;Thibaut;1;22/6/2023;;35;136
+;1;0;clmargreither@orange.fr;abcd12345;MARGREITHER;Thibaut;1;22/6/2023;;35;136
+;1;0;edouard.bailly-basin@orange.fr;abcd12345;BAILLY BASIN;Lucas;1;22/6/2023;;35;136
+;1;0;gaec.grandscurtils@wanadoo.fr;abcd12345;GRAPPE;Emilien;1;22/6/2023;;35;136

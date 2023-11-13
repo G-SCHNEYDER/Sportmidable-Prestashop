@@ -1,0 +1,5 @@
+Hi {name},
+
+Admin has changed your status on the: "{status}" in the {shop_name}
+
+{shop_url} powered by PrestaShop™

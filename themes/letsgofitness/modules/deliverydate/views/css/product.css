@@ -1,0 +1,27 @@
+.hidden {
+    display: none !important;
+}
+
+.dd_available, .dd_oot {
+    margin: 20px 0 10px 0;
+}
+
+.dd_available, .dd_oot {
+    display: flex;
+    flex-direction: row;
+}
+.dd_available:before, .dd_oot:before {
+    content: '';
+    display: inline-block;
+    background-image: url('../img/delivery-truck.svg');
+    width: 44px;
+    height: 44px;
+    background-size: cover;
+    margin-right: 10px;
+}
+.dd-info-container {
+    font-weight: bold;
+}
+.dd-info-container .dd-estimated-date {
+    color: #f00;
+}

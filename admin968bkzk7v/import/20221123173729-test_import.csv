@@ -1,0 +1,3 @@
+Customer ID;Active (0/1);Titles ID (Mr = 1, Ms = 2, else 0);Email *;Password *;Last Name *;First Name *;Newsletter (0/1);Registration date (yyyy-mm-dd);Groups (x,y,z...);Default group ID;ID ou nom de la boutique
+20000;1;0;test1-20221123@gmail.com;12345;TEST1 ; Emmanuelle;1;2022-11-18;Customer;23;211
+20001;1;0;test2-20221123@gmail.com;12345;TEST2 ;Camil;1;2022-11-18;Customer;23;211

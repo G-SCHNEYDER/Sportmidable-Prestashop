@@ -1,0 +1,47 @@
+"Product ID";Image;Nom;Référence;Catégorie;"Montant (HT)";"Montant (TTC)";Quantité;État;Position
+9370;https://newpreprod.boutique.sportmidable.com/15565/gourde.jpg;GOURDE;GOURDE-SP;"Les incontournables";6.666667;8;0;1
+9366;https://newpreprod.boutique.sportmidable.com/15560/sac-a-chaussure.jpg;"SAC A CHAUSSURE";BG540-NOIR;"Les produits";10.833333;13;0;1
+9256;https://newpreprod.boutique.sportmidable.com/15300/product.jpg;"MAILLOT MATCH EQUIPE 1";MAMCNAI;Compétition;41.666667;50;8;0
+9253;https://newpreprod.boutique.sportmidable.com/15279/product.jpg;"BERMUDA ROLY";SH019;"Les produits";15.833333;19;0;1
+9252;https://newpreprod.boutique.sportmidable.com/15278/polo-action.jpg;"POLO ACTION";PO009-PACK;"Les produits";62.500000;75;0;1
+9251;https://newpreprod.boutique.sportmidable.com/15277/chaussettes-team.jpg;"CHAUSSETTES TEAM";CHO7TEA-PACK;"Les produits";0.000000;0;-3;1
+9250;https://newpreprod.boutique.sportmidable.com/15276/short-pacifique.jpg;"SHORT PACIFIQUE";SH021-PACK;"Les produits";0.000000;0;-3;1
+9249;https://newpreprod.boutique.sportmidable.com/15274/maillot.jpg;Maillot;MAMCEND-PACK;"Les produits";20.000000;24;-3;1
+9248;https://newpreprod.boutique.sportmidable.com/15272/product.jpg;Initiales;initiales-marnay-2.5;"Nos offres";0.000000;0;-3;1
+9247;https://newpreprod.boutique.sportmidable.com/15271/pantalon-survetement.jpg;"PANTALON SURVETEMENT";SU011P-PACK;"Les produits";0.000000;0;-7;1
+9246;https://newpreprod.boutique.sportmidable.com/15270/veste-survetement.jpg;"VESTE SURVETEMENT";SU011V-PACK;"Les produits";37.500000;45;-7;1
+9245;https://newpreprod.boutique.sportmidable.com/15269/product.jpg;Initiales;initiales-marnay-5;"Nos offres";0.000000;0;-5;1
+9026;https://newpreprod.boutique.sportmidable.com/14780/product.jpg;MUG;MUG-BLC;"Les incontournables";6.666667;8;;0
+9023;https://newpreprod.boutique.sportmidable.com/14766/pack-entrainement.jpg;"PACK ENTRAINEMENT";;"Les produits";51,67 €;62,00 €;10000;0
+9022;https://newpreprod.boutique.sportmidable.com/14760/pack-sortie.jpg;"PACK SORTIE";;"Les produits";62,50 €;75,00 €;10000;0
+9019;https://newpreprod.boutique.sportmidable.com/14757/kit-maillot-short-chausettes.jpg;"KIT MAILLOT / SHORT / CHAUSETTES";PACK-MAILLOT-SHORT-CHAUSETTES;"Les produits";20,00 €;24,00 €;10000;0
+9018;https://newpreprod.boutique.sportmidable.com/14750/survêtement-inclus-dans-la-licence.jpg;"Survêtement inclus dans la licence";PACK-SURVETEMENT;"Les produits";37,50 €;45,00 €;10000;0
+9014;https://newpreprod.boutique.sportmidable.com/14723/chaussettes-team.jpg;"CHAUSSETTES TEAM";CHO7TEA;"Les produits";5.000000;6;;0
+9013;https://newpreprod.boutique.sportmidable.com/14717/pantalon-survetement.jpg;"PANTALON SURVETEMENT";SU011P;"Les produits";15.000000;18;;0
+9012;https://newpreprod.boutique.sportmidable.com/14718/veste-survetement.jpg;"VESTE SURVETEMENT";SU011V;"Les produits";20.000000;24;;0
+9011;https://newpreprod.boutique.sportmidable.com/14738/tour-de-cou.jpg;"TOUR DE COU";AC009;"Les produits";10.833333;13;;0
+9010;https://newpreprod.boutique.sportmidable.com//bonnet.jpg;BONNET;BO002;"Les produits";16.666667;20;-1;1
+9009;https://newpreprod.boutique.sportmidable.com/14719/sac-de-sport-grand.jpg;"SAC DE SPORT GRAND";SA024-SA025;"Les produits";30.833333;40;-1;1
+9008;https://newpreprod.boutique.sportmidable.com/14720/sac-de-sport-moyen.jpg;"SAC DE SPORT MOYEN";SA024;"Les produits";30.833333;37;;0
+9007;https://newpreprod.boutique.sportmidable.com/14721/sac-a-dos-sacomano.jpg;"SAC A DOS SACOMANO";SA027;"Les produits";25.000000;30;;0
+9006;https://newpreprod.boutique.sportmidable.com/14722/sac-a-dos-sacomano.jpg;"SAC A DOS SACOMANO";SA027-SA028;"Les produits";25.000000;30;;0
+9005;https://newpreprod.boutique.sportmidable.com/14724/gants-ster.jpg;"GANTS STER";GU006;"Les produits";18.333333;22;;0
+9004;https://newpreprod.boutique.sportmidable.com/14739/parka-stana.jpg;"PARKA STANA";BL013;"Les produits";71.666667;86;;0
+9003;https://newpreprod.boutique.sportmidable.com/14737/doudoune-vortex.jpg;"DOUDOUNE VORTEX";BL014;"Les produits";62.500000;75;;0
+9002;https://newpreprod.boutique.sportmidable.com/14725/coupe-vent-diablo.jpg;"COUPE VENT DIABLO";CV015;"Les produits";25.000000;30;-1;1
+9001;https://newpreprod.boutique.sportmidable.com/14726/veste-de-pluie-zehpyr.jpg;"VESTE DE PLUIE ZEHPYR";CV012;"Les produits";24.166667;29;;0
+9000;https://newpreprod.boutique.sportmidable.com/14727/sweat-a-capuche-cobra.jpg;"SWEAT A CAPUCHE COBRA";SW018;"Les produits";40.000000;48;;0
+8999;https://newpreprod.boutique.sportmidable.com/14729/bermuda-3-4-poly.jpg;"BERMUDA 3/4 POLY";PA014;"Les produits";17.500000;21;;0
+8998;https://newpreprod.boutique.sportmidable.com/14731/vesteacarreaux.jpg;"VESTE ACARREAUX";BL015;"Les produits";69.166667;83;;0
+8997;https://newpreprod.boutique.sportmidable.com/14730/pantalon-action.jpg;"PANTALON ACTION";SU012P;"Les produits";27.500000;33;;0
+8996;https://newpreprod.boutique.sportmidable.com/14732/sweat-1-4-zip-action.jpg;"SWEAT 1/4 ZIP ACTION";SW021;"Les produits";30.000000;36;-1;1
+8995;https://newpreprod.boutique.sportmidable.com/14733/polo-action.jpg;"POLO ACTION";PO009;"Les produits";20.833333;25;;0
+8994;https://newpreprod.boutique.sportmidable.com/14734/chaussettes-basses.jpg;"CHAUSSETTES BASSES";CHO7TEN03;"Les produits";5.000000;6;-1;1
+8993;https://newpreprod.boutique.sportmidable.com/14735/short-pacifique.jpg;"SHORT PACIFIQUE";SH021;"Les produits";9.166667;11;-1;1
+8992;https://newpreprod.boutique.sportmidable.com/14736/sous-maillot-thermique.jpg;"SOUS MAILLOT THERMIQUE";SM001;"Les produits";16.666667;20;-1;1
+8991;https://newpreprod.boutique.sportmidable.com//maillot-équipe-1.jpg;"Maillot équipe 1";MAMCNAI;"Les produits";41.666667;50;;0
+8990;https://newpreprod.boutique.sportmidable.com/14740/maillot.jpg;Maillot;MAMCEND;"Les produits";9.166667;11;-1;1
+8986;https://newpreprod.boutique.sportmidable.com/14759/product.jpg;"BERMUDA ROLY";SH019;"Les produits";15.833333;19;;0
+8984;https://newpreprod.boutique.sportmidable.com/15302/product.jpg;"VOTRE SECTION";SECTION;"Nos offres";0.000000;0;-5;1
+8644;https://newpreprod.boutique.sportmidable.com/14781/product.jpg;CASQUETTE;FX6606;;15.000000;18;;0
+7947;https://newpreprod.boutique.sportmidable.com/14784/sac-a-chaussure.jpg;"SAC A CHAUSSURE";BG540-NOIR;"Les produits";10.833333;13;10000;0

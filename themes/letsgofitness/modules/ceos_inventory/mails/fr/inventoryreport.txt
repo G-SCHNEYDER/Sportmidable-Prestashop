@@ -1,0 +1,10 @@
+
+[{shop_url}]
+
+Rapport de l'inventaire {name}
+
+Veuillez trouvez en pièce jointe à ce mail le rapport de l'inventaire {name} 
+Manager : {manager}
+Entrepôt : {warehouse}
+
+Ceci est un message automatique, merci de ne pas répondre directement

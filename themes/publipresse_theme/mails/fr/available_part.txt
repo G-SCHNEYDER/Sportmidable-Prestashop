@@ -1,0 +1,9 @@
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Identifiant de commande {order_name} - Commande disponible partielement 
+
+Les articles (hors en réassort chez notre fournisseur)de la commande ayant pour référence {order_name} sur {shop_name} sont disponibles auprès du référent du club.
+
+Mode de livraison : XXXX

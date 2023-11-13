@@ -1,0 +1,58 @@
+id_product;reference;price;id_shop_default;is_virtual;name;link_rewrite;active;shopname;id_image;name_category;price_final;nb_downloadable;sav_quantity;badge_danger
+9068;PACK-658735-01/657242-03;62.500000;100;0;"PACK SENIOR INCLUS DANS LA LICENCE";product;1;"FRASNE CS";14909;"Nos offres";0;;-18;1
+9067;PACK-658736-03/657242-03;62.500000;100;0;"PACK ENTRAINEUR INCLUS DANS LA LICENCE";product;1;"FRASNE CS";14907;"Nos offres";0;;28;0
+9035;;59.166667;100;0;"PACK SENIOR INCLUS DANS LA LICENCE -P";maillot-inclus-dans-la-licence;0;"FRASNE CS";14823;"Les produits";0;;160000;0
+9034;;66.666667;100;0;"PACK ENTRAINEUR INCLUS DANS LA LICENCE - P";maillot-inclus-dans-la-licence;0;"FRASNE CS";14819;"Les produits";0;;170000;0
+9033;076857;25.000000;251;0;"Sac de sport ";sac-de-sport;1;"FRASNE CS";14807;Bagagerie;0;;2;0
+9032;658735;41.666667;100;0;"Sweat 1/4 zip entraineur";sweat-1-4-zip;1;"FRASNE CS";14793;"Les produits";0;;-1;1
+9030;704927;20.833333;251;0;"MAILLOT INCLUS DANS LA LICENCE";product;1;"FRASNE CS";14822;"Nos offres";0;;3;0
+9029;041706-01;12.500000;251;0;GANTS;product;1;"FRASNE CS";14787;Accessoire;0;;4;0
+9027;655920;28.333333;251;0;SOUS-MAILLOT;product;1;"FRASNE CS";14798;"Hiver / Pluie";0;;0;1
+9010;BO002;15.833333;251;0;BONNET;bonnet;1;"FRASNE CS";;"Les produits";0;;0;1
+8887;658735;34.166667;251;0;"Sweat 1/4 zip";sweat-1-4-zip;1;"FRASNE CS";14794;"Les produits";0;;-6;1
+8884;657243;21.666667;251;0;"Pantalon junior";pantalon;1;"FRASNE CS";14813;Sortie;0;;0;1
+8883;657242;25.000000;251;0;Pantalon;pantalon;1;"FRASNE CS";14814;Sortie;0;;0;1
+8881;657332;30.833333;251;0;Pantalon;pantalon;1;"FRASNE CS";14801;"Les produits";0;;0;1
+8875;657321;59.166667;251;0;Softshell;softshell;1;"FRASNE CS";14804;"Hiver / Pluie";0;;0;1
+8874;657266;61.666667;251;0;"Doudoune junior";doudoune;1;"FRASNE CS";14809;"SC Recycle Bin";0;;0;1
+8873;657265;65.000000;251;0;Doudoune;doudoune;1;"FRASNE CS";14808;"SC Recycle Bin";0;;0;1
+8871;657246;34.166667;251;0;"Veste de pluie junior";veste-de-pluie;1;"FRASNE CS";14810;"SC Recycle Bin";0;;0;1
+8870;657245;37.500000;251;0;"Veste de pluie";veste-de-pluie;1;"FRASNE CS";14811;"Hiver / Pluie";0;;0;1
+8869;657968;46.666667;251;0;"Doudoune sans manche";doudoune-sans-manche;1;"FRASNE CS";14803;"SC Recycle Bin";0;;0;1
+8861;076855;17.500000;251;0;"Sac à dos";sac-à-dos;1;"FRASNE CS";14812;Bagagerie;0;;0;1
+8857;704942;10.000000;251;0;Short;short;1;"FRASNE CS";14800;Entraînement;0;;7;0
+8856;704943;10.000000;251;0;"Short junior";short;1;"FRASNE CS";14799;"Les produits";0;;5;0
+8855;656579;21.666667;251;0;Polo;polo;1;"FRASNE CS";14802;Sortie;0;;7;0
+8854;704932;14.166667;251;0;"Maillot Manches courtes";maillot-manches-courtes;1;"FRASNE CS";14789;"Les produits";0;;14;0
+8853;704938;12.500000;251;0;"Maillot Manches courtes junior";maillot-manches-courtes;1;"FRASNE CS";14788;"Les produits";0;;0;1
+8850;657235;29.166667;251;0;"Veste junior";veste;1;"FRASNE CS";14815;Sortie;0;;6;0
+8848;657237;28.333333;251;0;"Sweat 1/4 zip junior";sweat-1-4-zip;1;"FRASNE CS";14797;"Les produits";0;;5;0
+8847;657236;30.833333;251;0;"Sweat 1/4 zip";sweat-1-4-zip;1;"FRASNE CS";14796;Entraînement;0;;7;0
+7369;INITIALES-OBLIGATOIRE;0.000000;1;0;"PERSONNALISATION DU PACK OBLIGATOIRE";je-personnalise-ou-non;1;"FRASNE CS";11909;"Les produits";0;;-13;1
+7335;"MARQUAGE SUR ÉQUIPEMENT EXTÉRIEUR";0.000000;1;0;"MARQUAGE SUR ÉQUIPEMENT EXTÉRIEUR";marquage-sur-équipement-sportmidable;0;"FRASNE CS";11866;"Les produits";0;;0;1
+7334;"MARQUAGE SUR ÉQUIPEMENT SPORTMIDABLE";0.000000;1;0;"MARQUAGE SUR ÉQUIPEMENT SPORTMIDABLE";marquage-sur-équipement-sportmidable;0;"FRASNE CS";11865;"Les produits";0;;0;1
+7333;PORT;9.192201;1;0;"Frais de port SUISSE";frais-de-port-france;1;"FRASNE CS";11864;"Les produits";0;;0;1
+7332;PORT;7.416667;1;0;"Frais de port FRANCE";frais-de-port-france;1;"FRASNE CS";11863;"Les produits";0;;0;1
+7328;SP;2.785515;1;0;"SAC CADEAU";sac-cadeau;0;"FRASNE CS";11818;"Les produits";0;;0;1
+7327;SAV;0.000000;1;0;SAV;sav;1;"FRASNE CS";11817;Produits;0;;-3;1
+6996;YP023BKBK;0.000000;1;0;"Casquette noir";casquette-noir;0;"FRASNE CS";;Produits;0;;0;1
+6995;03566-312;0.000000;1;0;"Polo noir";polo-noir;0;"FRASNE CS";;Produits;0;;0;1
+6994;STTU755-C013;0.000000;1;0;"T-shirt orange";t-shirt-orange;0;"FRASNE CS";;Produits;0;;0;1
+6993;STSM566-C002;0.000000;1;0;"Sweat zippé à capuche noir";sweat-zippé-à-capuche-noir;0;"FRASNE CS";;Produits;0;;0;1
+6992;STSU812-C002;0.000000;1;0;"Sweat à capuche noir";sweat-à-capuche-noir;0;"FRASNE CS";;Produits;0;;0;1
+6219;BG540;0.000000;100;0;"SAC À CHAUSSURES";sac-a-chaussures;1;"FRASNE CS";9690;"Les incontournables";0;;-2;1
+6218;GOURDE-SP;0.000000;100;0;"GOURDE SPORTMIDABLE";gourde-sportmidable;1;"FRASNE CS";9689;"Les incontournables";0;;-6;1
+6217;FX6606;0.000000;100;0;"CASQUETTE TRUCKER";casquette-trucker;1;"FRASNE CS";9688;"Les incontournables";0;;-5;1
+6216;MUG-BLC;0.000000;100;0;"MUG PERSONNALISÉ";mug-personnalise;1;"FRASNE CS";9687;"Les incontournables";0;;-5;1
+1266;INITIALES-FR-5;0.000000;100;0;"PERSONNALISATION DU PACK EN OPTION";je-personnalise-ou-non;0;"FRASNE CS";1591;"Les produits";0;;-40;1
+1259;PACK;0.000000;100;0;"PERSONNALISATION DU PACK OBLIGATOIRE";je-personnalise-ou-non;1;"FRASNE CS";1582;"Les produits";0;;-214;1
+1144;INITIALES-RCA-5;0.000000;1;0;"PERSONNALISATION DU PACK";je-personnalise-ou-non;0;"FRASNE CS";1487;"Les produits";0;;0;1
+1007;;500.000000;1;1;"Carte cadeau 500";giftcard-carte-cadeau-400;1;"FRASNE CS";1222;"Les produits";0;;0;1
+1006;;400.000000;1;1;"Carte cadeau 400";giftcard-carte-cadeau-400;1;"FRASNE CS";1223;;0;;0;1
+1005;;300.000000;1;1;"Carte cadeau 300";giftcard-carte-cadeau-50;1;"FRASNE CS";1221;;0;;0;1
+1004;;200.000000;1;1;"Carte cadeau 200";giftcard-carte-cadeau-50;1;"FRASNE CS";1220;;0;;0;1
+1003;;25.000000;132;1;"Carte cadeau 25";giftcard-carte-cadeau-50;1;"FRASNE CS";1224;;0;;;0
+1000;;50.000000;1;1;"Carte cadeau 50";giftcard-carte-cadeau-50;1;"FRASNE CS";1225;"Les produits";0;;-1;1
+947;;30.000000;1;1;"Carte cadeau 30";giftcard-carte-cadeau-30;1;"FRASNE CS";1214;;0;;0;1
+264;;75.000000;1;1;"Carte cadeau 75";giftcard-carte-cadeau-75;1;"FRASNE CS";1105;"Les produits";0;;0;1
+263;;150.000000;1;1;"Carte cadeau 150";giftcard-carte-cadeau-150;1;"FRASNE CS";1103;"Les produits";0;;0;1

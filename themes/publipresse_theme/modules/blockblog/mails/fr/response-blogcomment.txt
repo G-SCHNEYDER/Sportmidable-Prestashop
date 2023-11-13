@@ -1,0 +1,17 @@
+Hi {name},
+
+Response on the Blog Comment in the {shop_name}
+
+Details of message:
+
+Comment: {question}
+
+Response: {response}
+
+Blog post {title_post}
+
+See this comment here: {com_url}
+
+
+
+{shop_url} powered by PrestaShop™

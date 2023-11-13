@@ -1,0 +1,7 @@
+{shop_name}
+
+Bonjour {firstname} {lastname},
+
+Suite à votre passage dans notre magasin, {store_name}, veuillez trouver joint à ce présent mail votre document n° {document_name}.
+
+Retrouvez tous nos produits en magasin et sur notre site internet {shop_name} .

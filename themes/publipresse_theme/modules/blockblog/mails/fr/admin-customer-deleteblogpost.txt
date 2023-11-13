@@ -1,0 +1,15 @@
+Dear merchant, one of your customers has delete own blog post in shop : {shop_name}
+
+Customer: {name}
+
+Customer email: {email}
+
+Blog post title: {title_post}
+
+Blog post content: {text}
+
+Date Add: {time_add}
+
+See this post here: {post_url}
+
+{shop_url} powered by PrestaShop™

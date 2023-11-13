@@ -1,0 +1,9 @@
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Vous venez de recevoir par mail la confirmation de votre nouvelle commande ayant pour référence {order_name} suite à votre échange avec notre service après-vente.
+
+Nous vous remercions de votre confiance.
+
+[{shop_name}]({shop_url})

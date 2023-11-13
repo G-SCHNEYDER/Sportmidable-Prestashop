@@ -1,0 +1,15 @@
+Hi {name},
+
+Admin reviewed your edited blog post in the {shop_name}
+
+Details of blog post:
+
+Blog post title: {title_post}
+
+Blog post content: {text}
+
+{categories}
+
+See this post here: {post_url}
+
+{shop_url} powered by PrestaShop™

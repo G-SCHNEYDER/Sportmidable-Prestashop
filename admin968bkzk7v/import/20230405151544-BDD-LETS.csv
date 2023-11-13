@@ -1,0 +1,63 @@
+Customer ID,Active (0/1),"Titles ID (Mr = 1, Ms = 2, else 0)",Email *,Password *,Last Name *,First Name *,Newsletter (0/1),Opt-in (0/1),Registration date (yyyy-mm-dd),"Groups (x,y,z...)",Default group ID,ID ou nom de la boutique,,NOM DE LA BOUTIQUE,
+500000,1,0,lgf.falknerstrasse@letsgo-fit.ch,12345,Let's Go Fitness,  Basel Falknerstrasse GmbH,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Basel Falknerstrasse GmbH,LETS GO FITNESS,  Basel Falknerstrasse GmbH
+500001,1,0,lgf.zahringerstrasse@letsgo-fit.ch,12345,Let's Go Fitness,  Bern Zähringerstrasse AG,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Bern Zähringerstrasse AG,LETS GO FITNESS,  Bern Zähringerstrasse AG
+500002,1,0,lgf.effingerstrasse@letsgo-fit.ch,12345,Let's Go Fitness,  Bern Effingerstrasse AG,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Bern Effingerstrasse AG,LETS GO FITNESS,  Bern Effingerstrasse AG
+500003,1,0,lgf.lady@letsgo-fit.ch,12345,Let's Go Fitness,  Lady Bern GmbH,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Lady Bern GmbH,LETS GO FITNESS,  Lady Bern GmbH
+500004,1,0,lgf.wankdorf@letsgo-fit.ch,12345,Let's Go Fitness,LGF Bern Wankdorf GmbH,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,LGF Bern Wankdorf GmbH,LETS GO FITNESS,LGF Bern Wankdorf GmbH
+500005,1,0,lgf.bienne@letsgo-fit.ch,12345,Let's Go Fitness,  Bienne Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Bienne Sàrl,LETS GO FITNESS,  Bienne Sàrl
+500007,1,0,lgf.bulle@letsgo-fit.ch,12345,Let's Go Fitness,  Bulle Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Bulle Sàrl,LETS GO FITNESS,  Bulle Sàrl
+500009,1,0,lgf.cernier@letsgo-fit.ch,12345,Let's Go Fitness,  Cernier Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Cernier Sàrl,LETS GO FITNESS,  Cernier Sàrl
+500010,1,0,lgf.collombey@letsgo-fit.ch,12345,Let's Go Fitness,  Collombey Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Collombey Sàrl,LETS GO FITNESS,  Collombey Sàrl
+500011,1,0,lgf.conthey@letsgo-fit.ch,12345,Let's Go Fitness,  Conthey Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Conthey Sàrl,LETS GO FITNESS,  Conthey Sàrl
+500012,1,0,lgf.cortaillod@letsgo-fit.ch,12345,Let's Go Fitness,  Cortaillod Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Cortaillod Sàrl,LETS GO FITNESS,  Cortaillod Sàrl
+500013,1,0,lgf.crissier@letsgo-fit.ch,12345,Let's Go Fitness,  Crissier Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Crissier Sàrl,LETS GO FITNESS,  Crissier Sàrl
+500014,1,0,lgf.duebendorf@letsgo-fit.ch,12345,Let's Go Fitness,  Dubendorf GMBH,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Dubendorf GMBH,LETS GO FITNESS,  Dubendorf GMBH
+500015,1,0,lgf.echallens@letsgo-fit.ch,12345,Let's Go Fitness,  Echallens Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Echallens Sàrl,LETS GO FITNESS,  Echallens Sàrl
+500016,1,0,lgf.ecublens@letsgo-fit.ch,12345,Let's Go Fitness,  Ecublens Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Ecublens Sàrl,LETS GO FITNESS,  Ecublens Sàrl
+500017,1,0,lgf.epalinges@letsgo-fit.ch,12345,Let's Go Fitness,  Epalinges Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Epalinges Sàrl,LETS GO FITNESS,  Epalinges Sàrl
+500018,1,0,lgf.etoy@letsgo-fit.ch,12345,Let's Go Fitness,  Etoy Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Etoy Sàrl,LETS GO FITNESS,  Etoy Sàrl
+500019,1,0,lgf.gelterkinden@letsgo-fit.ch,12345,Let's Go Fitness,  Gelterkinden GmbH,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Gelterkinden GmbH,LETS GO FITNESS,  Gelterkinden GmbH
+500020,1,0,lgf.geneve@letsgo-fit.ch,12345,Let's Go Fitness,  Genève SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Genève SA,LETS GO FITNESS,  Genève SA
+500021,1,0,lgf.nations@letsgo-fit.ch,12345,Let's Go Fitness,  Nations Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Nations Sàrl,LETS GO FITNESS,  Nations Sàrl
+500022,1,0,lgf.champel@letsgo-fit.ch,12345,Let's Go Fitness,  Champel Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Champel Sàrl,LETS GO FITNESS,  Champel Sàrl
+500023,1,0,lgf.eauxvives@letsgo-fit.ch,12345,Let's Go Fitness,  Eaux-Vives SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Eaux-Vives SA,LETS GO FITNESS,  Eaux-Vives SA
+500024,1,0,lgf.gland@letsgo-fit.ch,12345,Let's Go Fitness,  Gland Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Gland Sàrl,LETS GO FITNESS,  Gland Sàrl
+500025,1,0,lgf.grangespaccots@letsgo-fit.ch,12345,Let's Go Fitness,  Granges-Paccot Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Granges-Paccot Sàrl,LETS GO FITNESS,  Granges-Paccot Sàrl
+500026,1,0,lgf.kaiseraugst@letsgo-fit.ch,12345,Let's Go Fitness,  Kaiseraugst GmbH,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Kaiseraugst GmbH,LETS GO FITNESS,  Kaiseraugst GmbH
+500027,1,0,lgf.chxfds@letsgo-fit.ch,12345,Let's Go Fitness,  La Chaux-de-Fonds SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness La Chaux-de-Fonds SA,LETS GO FITNESS,  La Chaux-de-Fonds SA
+500029,1,0,lgf.lacroix@letsgo-fit.ch,12345,Let's Go Fitness,  La Croix Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness La Croix Sàrl,LETS GO FITNESS,  La Croix Sàrl
+500030,1,0,t.fornier@letsgo-fit.ch,12345,Let's Go Fitness,  Holding SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Holding SA,LETS GO FITNESS,  Holding SA
+500031,1,0,lgf.laborde@letsgo-fit.ch,12345,Let's Go Fitness,  La Borde SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness La Borde SA,LETS GO FITNESS,  La Borde SA
+500032,1,0,lgf.flon@letsgo-fit.ch,12345,Let's Go Fitness,  Le Flon SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Le Flon SA,LETS GO FITNESS,  Le Flon SA
+500033,1,0,lgf.st-francois@letsgo-fit.ch,12345,Let's Go Fitness,  St-François Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness St-François Sàrl,LETS GO FITNESS,  St-François Sàrl
+500034,1,0,lgf.grancy@letsgo-fit.ch,12345,Let's Go Fitness,  Grancy Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Grancy Sàrl,LETS GO FITNESS,  Grancy Sàrl
+500035,1,0,lgf.marterey@letsgo-fit.ch,12345,Let's Go Fitness,  Marterey Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Marterey Sàrl,LETS GO FITNESS,  Marterey Sàrl
+500036,1,0,lgf.falaises@letsgo-fit.ch,12345,Let's Go Fitness,  Falaises Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Falaises Sàrl,LETS GO FITNESS,  Falaises Sàrl
+500037,1,0,lgf.lausen@letsgo-fit.ch,12345,Let's Go Fitness,  Lausen GmbH,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Lausen GmbH,LETS GO FITNESS,  Lausen GmbH
+500038,1,0,lgf.locle@letsgo-fit.ch,12345,Let's Go Fitness,  Le Locle Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Le Locle Sàrl,LETS GO FITNESS,  Le Locle Sàrl
+500039,1,0,lgf.lemont@letsgo-fit.ch,12345,Let's Go Fitness,  Le Mont Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Le Mont Sàrl,LETS GO FITNESS,  Le Mont Sàrl
+500040,1,0,lgf.lutry@letsgo-fit.ch,12345,Let's Go Fitness,  Lutry SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Lutry SA,LETS GO FITNESS,  Lutry SA
+500041,1,0,lgf.lyssach@letsgo-fit.ch,12345,Let's Go Fitness,  Lyssach GmbH,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Lyssach GmbH,LETS GO FITNESS,  Lyssach GmbH
+500042,1,0,lgf.martigny@letsgo-fit.ch,12345,Let's Go Fitness,  Martigny Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Martigny Sàrl,LETS GO FITNESS,  Martigny Sàrl
+500043,1,0,lgf.meyrin@letsgo-fit.ch,12345,Let's Go Fitness,  Meyrin Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Meyrin Sàrl,LETS GO FITNESS,  Meyrin Sàrl
+500044,1,0,lgf.montreux@letsgo-fit.ch,12345,Let's Go Fitness,  Montreux SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Montreux SA,LETS GO FITNESS,  Montreux SA
+500045,1,0,lgf.morat@letsgo-fit.ch,12345,Let's Go Fitness,  Morat SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Morat SA,LETS GO FITNESS,  Morat SA
+500046,1,0,lgf.morges@letsgo-fit.ch,12345,Let's Go Fitness,  Morges Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Morges Sàrl,LETS GO FITNESS,  Morges Sàrl
+500047,1,0,lgf.neuchatel@letsgo-fit.ch,12345,Let's Go Fitness,  Neuchâtel Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Neuchâtel Sàrl,LETS GO FITNESS,  Neuchâtel Sàrl
+500049,1,0,lgf.nyon@letsgo-fit.ch,12345,Let's Go Fitness,  Nyon Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Nyon Sàrl,LETS GO FITNESS,  Nyon Sàrl
+500050,1,0,lgf.oftringen@letsgo-fit.ch,12345,Let's Go Fitness,  Oftringen GmbH,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Oftringen GmbH,LETS GO FITNESS,  Oftringen GmbH
+500051,1,0,lgf.payerne@letsgo-fit.ch,12345,Let's Go Fitness,  Payerne SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Payerne SA,LETS GO FITNESS,  Payerne SA
+500052,1,0,lgf.planlesouates@letsgo-fit.ch,12345,Let's Go Fitness,  Plan-les-Ouates Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Plan-les-Ouates Sàrl,LETS GO FITNESS,  Plan-les-Ouates Sàrl
+500053,1,0,lgf.porrentruy@letsgo-fit.ch,12345,Let's Go Fitness,  Porrentruy Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Porrentruy Sàrl,LETS GO FITNESS,  Porrentruy Sàrl
+500054,1,0,lgf.preverenges@letsgo-fit.ch,12345,Let's Go Fitness,  Préverenges Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Préverenges Sàrl,LETS GO FITNESS,  Préverenges Sàrl
+500055,1,0,lgf.prilly@letsgo-fit.ch,12345,Let's Go Fitness,  Prilly SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Prilly SA,LETS GO FITNESS,  Prilly SA
+500056,1,0,lgf.rolle@letsgo-fit.ch,12345,Let's Go Fitness,  Rolle SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Rolle SA,LETS GO FITNESS,  Rolle SA
+500057,1,0,lgf.romont@letsgo-fit.ch,12345,Let's Go Fitness,  Romont Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Romont Sàrl,LETS GO FITNESS,  Romont Sàrl
+500058,1,0,lgf.saxon@letsgo-fit.ch,12345,Let's Go Fitness,  Saxon Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Saxon Sàrl,LETS GO FITNESS,  Saxon Sàrl
+500059,1,0,lgf.sion@letsgo-fit.ch,12345,Let's Go Fitness,  Sion Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Sion Sàrl,LETS GO FITNESS,  Sion Sàrl
+500061,1,0,lgf.uster@letsgo-fit.ch,12345,Let's Go Fitness,  Uster AG,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Uster AG,LETS GO FITNESS,  Uster AG
+500062,1,0,lgf.versoix@letsgo-fit.ch,12345,Let's Go Fitness,  Versoix Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Versoix Sàrl,LETS GO FITNESS,  Versoix Sàrl
+500063,1,0,lgf.vevey@letsgo-fit.ch,12345,Let's Go Fitness,  Vevey Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Vevey Sàrl,LETS GO FITNESS,  Vevey Sàrl
+500065,1,0,lgf.villeneuve@letsgo-fit.ch,12345,Let's Go Fitness,  Villeneuve Sàrl,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Villeneuve Sàrl,LETS GO FITNESS,  Villeneuve Sàrl
+500066,1,0,lgf.yverdon@letsgo-fit.ch,12345,Let's Go Fitness,  Yverdon SA,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Yverdon SA,LETS GO FITNESS,  Yverdon SA
+500068,1,0,lgf.limmattalstrasse@letsgo-fit.ch,12345,Let's Go Fitness,  Zürich Limmattalstrasse AG,1,0,2023-04-05,Clubs LETS GO FITNESS,29,247,Let's Go Fitness Zürich Limmattalstrasse AG,LETS GO FITNESS,  Zürich Limmattalstrasse AG

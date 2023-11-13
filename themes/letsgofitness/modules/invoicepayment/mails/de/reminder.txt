@@ -1,0 +1,22 @@
+Guten Tag {firstname} {lastname},
+
+
+
+=== Zahlungserinnerung ===
+
+
+
+auf unsere Rechnung {order_reference} vom {order_date} haben wir noch keinen 
+Zahlungseingang feststellen können. 
+
+Falls Ihrer Aufmerksamkeit unsere erneut angehängte Rechnung entgangen ist, 
+haben wir Ihnen eine Kopie unserer Rechnung beigefügt. Wir bitten Sie, die Regulierung nachzuholen und sehen 
+dem Eingang Ihrer Zahlung entgegen. 
+
+Sollten Sie zwischenzeitlich bereits Zahlung geleistet haben, betrachten 
+Sie dieses Schreiben bitte als gegenstandslos. 
+
+
+
+
+{shop_url} powered by PrestaShop™

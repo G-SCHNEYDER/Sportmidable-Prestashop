@@ -1,0 +1,34 @@
+Customer ID;Active (0/1);Titles ID (Mr = 1, Ms = 2, else 0);Email *;Password *;Last Name *;First Name *;Newsletter (0/1);Registration date (yyyy-mm-dd);Groups (x,y,z...);Default group ID;ID ou nom de la boutique
+;1;0;sylvia.andre25@orange.fr;abcd12345;André;Léane;1;22/6/2023;CD25 Fond;31;137
+;1;0;sebastien.ferreira25@gmail.com;abcd12345;Ferreira;Agathe;1;22/6/2023;CD25 Fond;31;137
+;1;0;sbillet.jouglet@orange.fr;abcd12345;Billet;Ismaël;1;22/6/2023;CD25 Fond;31;137
+;1;0;claudet.steph@orange.fr;abcd12345;Claudet;Charly;1;22/6/2023;CD25 Fond;31;137
+;1;0;griffon.gerald@neuf.fr;abcd12345;Griffon;Charly;1;22/6/2023;CD25 Fond;31;137
+;1;0;seb.janier@gmail.com;abcd12345;Janier; Tom;1;22/6/2023;CD25 Fond;31;137
+;1;0;tissot.yohann@orange.fr;abcd12345;Tissot;Clément;1;22/6/2023;CD25 Fond;31;137
+;1;0;eliseperrot1503@gmail.com;abcd12345;Perrot;Martin;1;22/6/2023;CD25 Fond;31;137
+;1;0;manon.olivier@orange.fr;abcd12345;Rives;Pom;1;22/6/2023;CD25 Fond;31;137
+;1;0;olivierlalliet@yahoo.fr;abcd12345;Lalliet;Alice;1;22/6/2023;CD25 Fond;31;137
+;1;0;noamkilchoer5@gmail.com;abcd12345;Kilchoer;Noam;1;22/6/2023;CD25 Fond;31;137
+;1;0;hebama@orange.fr;abcd12345;Petite;Marius;1;22/6/2023;CD25 Fond;31;137
+;1;0;villetthomas@gmail.com;abcd12345;Villet;Timéo;1;22/6/2023;CD25 Fond;31;137
+;1;0;anthony.hauck@wanadoo.fr;abcd12345;Hauck;Julien;1;22/6/2023;CD25 Fond;31;137
+;1;0;zacharie.bourdin@gmail.com;abcd12345;Bourdin;Zacharie;1;22/6/2023;CD25 Fond;31;137
+;1;0;virginie.rousseau0307@orange.fr;abcd12345;Perrin;Maxence;1;22/6/2023;CD25 Fond;31;137
+;1;0;virginie.boichut@gmail.com;abcd12345;Bobillier-Chaumont;Jules;1;22/6/2023;CD25 Fond;32;137
+;1;0;lecomtekelvin25@gmail.com;abcd12345;Lecomte;Kelvin;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;laurence.saillard@orange.fr;abcd12345;Blondeau-Toiny;Alix;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;fredericlambert34@hotmail.fr;abcd12345;Lambert;Tom;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;deborahchristophe@orange.fr;abcd12345;Laurent;Fiona;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;franck.rufenacht@wanadoo.fr;abcd12345;Rufenacht;Stecy;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;gaelle.faivre@gmail.com;abcd12345;Faivre;Emie;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;thierryfellmann@hotmail.fr;abcd12345;Fellmann;Alice;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;florian.marguier@orange.fr;abcd12345;Marguier;Léa;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;isabelle.vuittenez@orange.fr;abcd12345;Vuittenez;Capucine;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;rositamarguet@gmail.com;abcd12345;Marguet;Rose;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;annesophie.roussel@gmail.com;abcd12345;Roussel;Elie;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;sabrina.guinchard@gmx.fr;abcd12345;Guinchard;Joé;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;elen.amiotte@wanadoo.fr;abcd12345;Amiotte;Timéo;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;maxime.remonnay@orange.fr;abcd12345;Remonnay;Augustin;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;stephanieroy@gmx.fr;abcd12345;Roy;Charly;1;22/6/2023;CD25 Biathlon;32;137
+;1;0;juliebulliard@hotmail.com;abcd12345;Lambert;Thimothée;1;22/6/2023;CD25 Biathlon;32;137

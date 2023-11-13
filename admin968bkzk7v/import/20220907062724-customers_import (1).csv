@@ -1,0 +1,12 @@
+Customer ID;Active (0/1);Titles ID (Mr = 1, Ms = 2, else 0);Email *;Password *;Birthday (yyyy-mm-dd);Last Name *;First Name *;Newsletter (0/1);Opt-in (0/1);Registration date (yyyy-mm-dd);Groups (x,y,z...);Default group ID
+1;1;1;n.komlenovic@lausannehc.ch;1234abcd;;KOMLENOVIC;Nikola;1;1;;B2B LHC;6
+2;1;2;j.fedulov@lausannehc.ch;1234abcd;;FEDULOV;Jasmine;1;1;;B2B LHC;6
+3;1;1;c.leconte@lausannehc.ch;1234abcd;; LECONTE;Cédric;1;1;;B2B LHC;6
+4;1;2;l.wolff@lausannehc.ch;1234abcd;; WOLFF;Lucile;1;1;;B2B LHC;6
+5;1;1;s.vanian@lausannehc.ch;1234abcd;; VANIAN;Sébastien;1;1;;B2B LHC;6
+6;1;1;s.tereygeol@lausannehc.ch;1234abcd;; TEREYGEOL;Stéphane;1;1;;B2B LHC;6
+7;1;1;j.chastan@lausannehc.ch;1234abcd;; CHASTAN;Julien;1;1;;B2B LHC;6
+8;1;1;a.gauci@lausannehc.ch;1234abcd;; GAUCI;Antoine;1;1;;B2B LHC;6
+9;1;1;r.krieger@lausannehc.ch;1234abcd;; KRIEGER;Roman;1;1;;B2B LHC;6
+10;1;1;g.brunner@lausannehc.ch;1234abcd;; BRUNNER;Guillaume;1;1;;B2B LHC;6
+11;1;1;j.krueger@lausannehc.ch;1234abcd;;KRUGER;Justin;1;1;;B2B LHC;6

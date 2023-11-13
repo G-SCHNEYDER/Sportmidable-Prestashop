@@ -117,7 +117,8 @@ app/config/config.php
 modules/*
 override/*
 themes/*/
-!themes/classic
+!themes/publipresse_theme
+!themes/letsgofitness
 !themes/_core
 !themes/_libraries
 

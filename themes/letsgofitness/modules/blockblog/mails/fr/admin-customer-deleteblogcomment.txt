@@ -1,0 +1,15 @@
+Dear merchant, one of your customers has delete own blog comment in shop : {shop_name}
+
+Customer: {name}
+
+Customer email: {email}
+
+Comment: {text}
+
+Date Add: {time_add}
+
+Blog post {title_post}
+
+See this comment here: {com_url}
+
+{shop_url} powered by PrestaShop™

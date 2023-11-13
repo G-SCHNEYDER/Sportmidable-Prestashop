@@ -1,0 +1,28 @@
+Customer ID,Active (0/1),"Titles ID (Mr = 1, Ms = 2, else 0)",Email *,Password *,Birthday (yyyy-mm-dd),Last Name *,First Name *,Newsletter (0/1),Opt-in (0/1),Registration date (yyyy-mm-dd),"Groups (x,y,z...)",Default group ID
+10014,1,1,hervemazzieri@hotmail.com,1234abcd,,Mazzierri,Hervé,1,0,2022-11-03,YVERDON SPORT B2B,21
+10015,1,1,Anthony.ciavardini@me.com,1234abcd,,Ciavardini,Anthony,1,0,2022-11-03,YVERDON SPORT B2B,21
+10017,1,1,boye.modou@gmail.com,1234abcd,,Boye,Modou,1,0,2022-11-03,YVERDON SPORT B2B,21
+10018,1,1,romuald.jeremy@hotmail.com,1234abcd,,Romuald,Neves,1,0,2022-11-03,YVERDON SPORT B2B,21
+10019,1,1,johann_1350@hotmail.com,1234abcd,,Demarque,Johann,1,0,2022-11-03,YVERDON SPORT B2B,21
+10020,1,1,nphommarath@gmail.com,1234abcd,,Phommarath,Nico,1,0,2022-11-03,YVERDON SPORT B2B,21
+10021,1,1,mfrutiger@me.com,1234abcd,,Frutiger,Michel,1,0,2022-11-03,YVERDON SPORT B2B,21
+10022,1,1,olivier.wuethrich@chuv.ch,1234abcd,,Wütrich,Olivier,1,0,2022-11-03,YVERDON SPORT B2B,21
+10023,1,1,noah.monge@icloud.com,1234abcd,,Monge,Noah,1,0,2022-11-03,YVERDON SPORT B2B,21
+10025,1,1,brunoreymond13@gmail.com,1234abcd,,Reymond,Bruno,1,0,2022-11-03,YVERDON SPORT B2B,21
+10026,1,1,prahin@isu.ch,1234abcd,,Prahins,Fabrice,1,0,2022-11-03,YVERDON SPORT B2B,21
+10027,1,1,el-jay22@hotmail.com,1234abcd,,Brunet,Jason,1,0,2022-11-03,YVERDON SPORT B2B,21
+10028,1,1,albino.bencivenga@geneuxdancet.com,1234abcd,,Bencivenga,Albino,1,0,2022-11-03,YVERDON SPORT B2B,21
+10029,1,1,alitor.ali@gmail.com,1234abcd,,Tor,Ali,1,0,2022-11-03,YVERDON SPORT B2B,21
+10030,1,1,marcogalatim@libero.it,1234abcd,,Galati ,Marco,1,0,2022-11-03,YVERDON SPORT B2B,21
+10031,1,1,rexhe.berisha.t@gmail.com,1234abcd,,Berisha,Rexhe,1,0,2022-11-03,YVERDON SPORT B2B,21
+10033,1,1,mus16.mus@hotmail.com,1234abcd,,Sejmenovic,Mustafa,1,0,2022-11-03,YVERDON SPORT B2B,21
+10034,1,1,noavazquez32@gmail.com,1234abcd,,Vazquez,Noa,1,0,2022-11-03,YVERDON SPORT B2B,21
+10035,1,1,gabriel.agosta2@hotmail.com,1234abcd,,Agosta ,Gabriel,1,0,2022-11-03,YVERDON SPORT B2B,21
+10036,1,1,evanwesz1400@gmail.com,1234abcd,,Weszeli ,Evan,1,0,2022-11-03,YVERDON SPORT B2B,21
+10037,1,1,rameche.fouad@hotmail.com,1234abcd,,Ramech,Fouad,1,0,2022-11-03,YVERDON SPORT B2B,21
+10038,1,1,gabriel.manzambi@hotmail.com,1234abcd,,Manzambi,Gabriel,1,0,2022-11-03,YVERDON SPORT B2B,21
+10039,1,1,dansoa@hotmail.fr,1234abcd,,Texeira Soares,Daniel,1,0,2022-11-03,YVERDON SPORT B2B,21
+10040,1,1,matildeenzo85@gmail.com,1234abcd,,Sousa,Paulo,1,0,2022-11-03,YVERDON SPORT B2B,21
+10041,1,1,Constantin.forestier@outlook.com,1234abcd,,Forestier,Costantin,1,0,2022-11-03,YVERDON SPORT B2B,21
+10042,1,1,c.meyl@protonmail.ch,1234abcd,,Meylan,Christopher,1,0,2022-11-03,YVERDON SPORT B2B,21
+10043,1,1,castmika@gmail.com,1234abcd,,Castejon,Mickael,1,0,2022-11-03,YVERDON SPORT B2B,21

@@ -1,0 +1,228 @@
+Customer ID;Active (0/1);Titles ID (Mr = 1, Ms = 2, else 0);Email *;Password *;Birthday (yyyy-mm-dd);Last Name *;First Name *;Newsletter (0/1);Opt-in (0/1);Registration date (yyyy-mm-dd);Groups (x,y,z...);Default group ID;ID BOUTIQUE
+;1;;aime.emmanuelle@gmail.com;abcd1234;;AIME ; Emmanuelle;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;alaouihamed@gmail.com;abcd1234;;ALAOUI ;Camil;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;alaoui.hamed@gmail.com;abcd1234;;ALAOUI ; Hamed;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;jluc.albinet@gmail.com;abcd1234;;ALBINET ;Jean-Luc;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;MYNOE@HOTMAIL.COM;abcd1234;;ALMENDRA ; Maya;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;mae_04@hotmail.fr;abcd1234;;ANGELINI ;Jules;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;arnoux.florent@orange.fr;abcd1234;;ARNOUX ; Sandro;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;al@laconi-avocat.com;abcd1234;;ATTAL ;Clement;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;jessye.austen@gmail.com;abcd1234;;AUSTEN ; Jessye;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;kas57@msn.com;abcd1234;;BALDUIN ; Alex;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;yohan_barata@hotmail.fr;abcd1234;;BARATA ; Yohan;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;baron.cedric@live.fr;abcd1234;;BARON ; Cédric;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;barreconsulting@gmail.com;abcd1234;;BARRE ; Luc;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;emmanuel.bassuel@gmail.com;abcd1234;;BASSUEL ;Pierre;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;kinga.bej@gmx.fr;abcd1234;;BEJ ; Alexis;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;sophie.bellumore@gmail.com;abcd1234;;BELLUMORE ; Sophie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;emilie85carriere@gmail.com;abcd1234;;BEN SAAD ; Nael;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;emilie.bensaad@hotmail.fr;abcd1234;;BEN SAAD ; Yanis;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;Mohammedbendadi8@gmail.com;abcd1234;;BENDADI ;Mohammed;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;florian.benoist.95130@gmail.com;abcd1234;;BENOIST ; Florian;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;coyotexb@gmail.com;abcd1234;;BERANGER ; Xavier;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;coyotexb@gmail.com;abcd1234;;BERANGER ; Xavier;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;sb.beranger@gmail.com;abcd1234;;BERANGER; Léonard;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;sb.beranger@gmail.com;abcd1234;;BERANGER; Raphaël;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;antoinebesson@hotmail.com;abcd1234;;BESSON ; Antoine;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;boccassini.rene@neuf.fr;abcd1234;;BOCCASSINI ;Thomas;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;rc.bonelli@gmail.com;abcd1234;;BONELLI ; Alessio;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;rc.bonelli@gmail.com;abcd1234;;BONELLI ; Lucan;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;ludovic.brun.me@gmail.com;abcd1234;;BRUN ; Ludovic;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;Amandine.brun@outlook.com;abcd1234;;BRUN ; Quentin;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;jessye.austen@gmail.com;abcd1234;;BUFFA; Louis;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;maryline.bouchez@gmail.com;abcd1234;;CANAL BOUCHEZ ;Manon;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;s.cano.brule@gmail.com;abcd1234;;CANO ; Vincenzo;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;vivien.capocci@gmail.com;abcd1234;;CAPOCCI ;Vivien;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;oliv1380@hotmail.fr;abcd1234;;CARDOSO DE SOUSA ; Luyana;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;oliv1380@hotmail.fr;abcd1234;;CARDOSO DE SOUSA; Luyana;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;jacquot.aurore@hotmail.fr;abcd1234;;CARDOSO DE SOUSA ; Nolan;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;manon.cirotteau@gmail.com;abcd1234;;CASTIGLIONE ; Livio;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;roxanne.vatinel@gmail.com;abcd1234;;CECILE ; Leo;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;roxanne.vatinel@gmail.com;abcd1234;;CECILE; Roxanne;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;roxanne.vatinel@gmail.com;abcd1234;;CECILE ;Victoria;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;n.chevalier8@gmail.com;abcd1234;;CHEVALIER ; Nicolas;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;sophie.chouvet@gmail.com;abcd1234;;CHOUVET ;Sophie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;ciavarella.gregory@outlook.fr;abcd1234;;CIAVARELLA ; Grégory;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;stefano13@hotmail.fr;abcd1234;;CIMITILE ; Stefano;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;Tclemencet@gmail.com;abcd1234;;CLEMENCET ; Thomas;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;cocoprocess@yahoo.fr;abcd1234;;CLEMENT ; Nausikäa;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;coccordano.gersende@gmail.com;abcd1234;;COCCORDANO ; Gersende;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;donna.design@free.fr;abcd1234;;COHEN ; Joan;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;coppo.damien@hotmail.fr;abcd1234;;COPPO ; Damien;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;beacoullomb@gmail.com;abcd1234;;COULLOMB ; Beatrice;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;richard.crouzet@gmail.com;abcd1234;;CROUZET ; Richard;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;chtetom74@laposte.net;abcd1234;;CROZES ;Thomas;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;greg.pirone@gmail.com;abcd1234;;DEL TRENTO ; Gregory;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;anthoine.demares@gmail.com;abcd1234;;DEMARES ; Anthoine;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;n.denisnoel@gmail.com;abcd1234;;DENIS ; Nicolas;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;SOPHIE.BELLUMORE@GMAIL.COM;abcd1234;;DEWAVRIN ; Arthur;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;raph.dion@hotmail.fr;abcd1234;;DION ;Raphaël;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;justin.djamali30@gmail.com;abcd1234;;DJAMALI ;Justin;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;mattsound.dubois@gmail.com;abcd1234;;DUBOIS ; Mathieu;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;pierre.dufau@gmail.com;abcd1234;;DUFAU ; Tristan;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;seanduink@gmail.com;abcd1234;;DUINK ; James;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;seanduink@gmail.com;abcd1234;;DUINK ;Sean;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;seanduink@gmail.com;abcd1234;;DUINK ; Spencer;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;melaniduran@hotmail.fr;abcd1234;;DURAND ; Mélanie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;fabientmc@laposte.net;abcd1234;;DURBIN ;Fabien;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;J3ni@hotmail.fr;abcd1234;;DUVAL ; Kayliah;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;kekileb@hotmail.fr;abcd1234;;ETIENNE ; Sacha;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;leonie.fernez@gmail.com;abcd1234;;FERNEZ ; Léonie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;lisa.fine@hotmail.fr;abcd1234;;FINE ; Lisa;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;seb.flourou@gmail.com;abcd1234;;FLOUROU ; Camille;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;seb.flourou@gmail.com;abcd1234;;FLOUROU ; Sébastien;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;john_yamabushi@hotmail.com;abcd1234;;FRIER MANON ; Eowyn;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;mikalaweet@hotmail.com;abcd1234;;FRIER MANON; Shanya;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;sandrinefusibet@yahoo.fr;abcd1234;;FRONTINI ; Eli;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;raidah13@hotmail.com;abcd1234;;FULLERTON ; Buck;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;stephanegaillard@rocketmail.com;abcd1234;;GAILLARD ; Stéphane;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;gapierre95@hotmail.fr;abcd1234;;GARAGNON ; Pierre;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;jake.garcia37@gmail.com;abcd1234;;GARCIA ; Jacky;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;bernadette.bosse@orange.fr;abcd1234;;GAUDENCE ESTACHON ; Robert Paul;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;bernadette.bosse@orange.fr;abcd1234;;GAUDENCE ESTACHON ; Robert Paul;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;paul.fabre.9@gmail.com;abcd1234;;GENDRON ; Paul;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;sharipova.julia@yahoo.com;abcd1234;;GHIO ; Maxime;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;jason.gibson@orange.fr;abcd1234;;GIBSON ; Jason;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;laslogilles7@gmail.com;abcd1234;;GILLES ; Laslo;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;yulbadina@yahoo.com;abcd1234;;GILLES ; Yaroslav;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;gilly.amaya@gmail.com;abcd1234;;GILLY ; Hugo;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;anne.coquillat03@gmail.com;abcd1234;;GILLY ;Paul;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;gillesg.mhca@gmail.com;abcd1234;;GONNARD; Gilles;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;anne.coquillat03@gmail.com;abcd1234;;GOUIRAN ; Anne;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;romain.grim@gmail.com;abcd1234;;GRIMAUD;Romain;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;armellepoyet@gmail.com;abcd1234;;GUENEUX ;Armelle;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;armellepoyet@gmail.com;abcd1234;;GUENEUX ; Armelle;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;armellepoyet@gmail.com;abcd1234;;GUENEUX ; Maelle;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;armellepoyet@gmail.com;abcd1234;;GUENEUX ; Maelle;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;armellepoyet@gmail.com;abcd1234;;GUENEUX ; Maxime;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;armellepoyet@gmail.com;abcd1234;;GUENEUX ; Zoe;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;tono79@hotmail.fr;abcd1234;;GUERIN ; Anthony;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;sarah.aillaud@gmail.com;abcd1234;;GUEULET ;Enzo;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;delphine.gusmaroli.dg@gmail.com;abcd1234;;GUSMAROLI ; Ritchy;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;matthieu.hey@gmail.com;abcd1234;;HEY ; Félix;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;matthieu.hey@gmail.com;abcd1234;;HEY ; Gaspard;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;romain.hinet-debain@univ-amu.fr;abcd1234;;HINET ; Romain;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;margaux.hsrd@gmail.com;abcd1234;;HOUSSARD ; Margaux;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;laeti.isbi@gmx.fr;abcd1234;;ISBIRIAN ; Kelyan;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;jacqueminjulien@hotmail.fr;abcd1234;;JACQUEMIN ; Julien;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;laurent.jantzen@gmail.com;abcd1234;;JANTZEN; Laurent;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;kas57@msn.com;abcd1234;;KASTNER ; Virginie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;jauffreykazazian21@gmail.com;abcd1234;;KAZAZIAN ; Jauffrey;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;kikoff10@gmail.com;abcd1234;;KESTANEYAN ; Christophe;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;gregorykoch@free.fr;abcd1234;;KOCH ;Grégory;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;laetikem@hotmail.fr;abcd1234;;KORBOSLI ; Jordan;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;kultebart@hotmail.fr;abcd1234;;LACHE ; Téo;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;jonas.lacour09@gmail.com;abcd1234;;LACOUR ; Jonas;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;dorian.lager@gmail.com;abcd1234;;LAGER ; Dorian;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;larosieremanon@gmail.com;abcd1234;;LAROSIERE; Manon;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;larosieremanon@gmail.com;abcd1234;;LAROSIERE; Manon;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;estellebokor@hotmail.com;abcd1234;;LARROUDE ; Axel;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;davy114@hotmail.fr;abcd1234;;LASCORZ ; Jules;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;svaccalaurenti@gmail.com;abcd1234;;LAURENTI VACCA ; Thomas;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;lavernhefrancois@wanadoo.fr;abcd1234;;LAVERNHE ; Eloan;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;fou.lavernhe@gmail.com;abcd1234;;LAVERNHE ; Ewen;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;lavernhefrancois@wanadoo.fr;abcd1234;;LAVERNHE ;LAVERNHE ;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;lavernhefrancois@wanadoo.fr;abcd1234;;LAVERNHE ; François;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;myriam.lehello@free.fr;abcd1234;;LE HELLO ;Myriam;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;thlebosse35@gmail.com;abcd1234;;LEBOSSE ; Thibault;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;pmtequila@hotmail.com;abcd1234;;LEBRAN ; Jean Noël;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;pmtequila@hotmail.com;abcd1234;;LEBRAN ; Manua;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;marjorie.lebran@gmail.com;abcd1234;;LEBRAN ; Marjorie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;cyril.lecomte3@orange.fr;abcd1234;;LECOMTE ; Noé;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;nadbayle@gmail.com;abcd1234;;LELIEVRE-BAYLE ;Camus;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;leytier_sebastien@hotmail.com;abcd1234;;LEYTIER ; Nina;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;movy.bl@gmail.com;abcd1234;;LOMBARD ; Dorian;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;agnes.carratero@gmail.com;abcd1234;;LONG ; Olivier;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;lopezfbox-services@yahoo.fr;abcd1234;;LOPEZ ; Fabien;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;lopezfbox-services@yahoo.fr;abcd1234;;LOPEZ ; Fabien;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;odile.malet@yahoo.fr;abcd1234;;MALET ; Matthieu;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;odile.malet@yahoo.fr;abcd1234;;MALET ; Odile;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;Christophemaletrez34@gmail.com;abcd1234;;MALETREZ ;Christophe;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;march.ga@gmail.com;abcd1234;;MARCHIS ; Gaelle;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;march.ga@gmail.com;abcd1234;;MARCHIS ; Gaelle;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;olivermo13@hotmail.com;abcd1234;;MARINO ; Alex;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;olivermo13@hotmail.com;abcd1234;;MARINO ; Lucas;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;olivermo13@hotmail.com;abcd1234;;MARINO ; Olivier;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;olivermo13@hotmail.com;abcd1234;;MARINO ; Olivier;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;santinisylvie@gmail.com;abcd1234;;MARINO ; Sylvie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;santinisylvie@gmail.com;abcd1234;;MARINO ;Sylvie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;justine-mt@hotmail.fr;abcd1234;;MARKS ; Marius;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;patriciamaruani@hotmail.com;abcd1234;;MARUANI ;Sam;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;mathonaudrey@hotmail.fr;abcd1234;;MATHON ; Audrey;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;laurianepv@gmail.com;abcd1234;;MAZZA PAQUET ;Antoine;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;thibmetailler@gmail.com;abcd1234;;METAILLER ;Thibault;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;sandra.nativomolle@gmail.com;abcd1234;;MOLLE ; Timothée;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;claudia.mollicchi@gmail.com;abcd1234;;MOLLICCHI ;Claudia;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;stephanie.monnin@laposte.net;abcd1234;;MONNIN ;Stéphanie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;stephanie.monnin@laposte.net;abcd1234;;MONNIN ;Stéphanie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;vajmorel@yahoo.fr;abcd1234;;MOREL ; Léon;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;robin.musson@laposte.net;abcd1234;;MUSSON ;Robin;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;augustin.nalliod.96@hotmail.com;abcd1234;;NALLIOD-IZACARD; Augustin;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;flofloflow@hotmail.com;abcd1234;;NEIM; Wesley;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;adeline.lannes@gmail.com;abcd1234;;NEVERS ; Raphaël;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;tb.design.72@gmail.com;abcd1234;;NGUYEN ; Thai Binh;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;marionoel@hotmail.fr;abcd1234;;NOEL ; Marion;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;julianek_ol@hotmail.com;abcd1234;;OLSZEWSKI ;Julien;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;tinga6@free.fr;abcd1234;;OPPIO ; Enaelle;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;oppio.cyril@gmail.com;abcd1234;;OPPIO ; Ruben;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;origlio.pierrick@free.fr;abcd1234;;ORIGLIO ;Marleen;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;jeremy.ortolland@gmail.com;abcd1234;;ORTOLLAND ; Jeremy;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;oudin.laurent13@gmail.com;abcd1234;;OUDIN ; Laurent;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;stellapaleni@gmail.com;abcd1234;;PALENI ;Stella;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;bagnardm@yahoo.com;abcd1234;;PASQUIER BAGNARD ;Louis;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;domdom.payen@hotmail.fr;abcd1234;;PAYEN ; Dominique;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;sascha.perroux@laposte.net;abcd1234;;PERROUX ;Sascha;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;laetitiapersico1@gmail.com;abcd1234;;PERSICO ; Laetitia;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;peyronelalex@gmail.com;abcd1234;;PEYRONEL ;Gaspard;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;m.peythieu@ffhg.eu;abcd1234;;PEYTHIEU ; Marc;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;louis.poizat@gmail.com;abcd1234;;POIZAT ;Jérémie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;louis.poizat@gmail.com;abcd1234;;POIZAT ; Jérémie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;qclarys@outlook.fr;abcd1234;;QUATTRINI ; Clarys;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;ratis.thomas@gmail.com;abcd1234;;RATIS ; Thomas;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;dimby3@hotmail.com;abcd1234;;RAZAFINTSAMBAINA ; Tiaro;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;coralie.rejas@icloud.com;abcd1234;;REJAS ;Théo;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;magali.schaus@gmail.com;abcd1234;;REY ; Lilian;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;rizzojerome77@yahoo.fr;abcd1234;;RIZZO ; Louis;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;veroniquegalea@gmail.com;abcd1234;;RODOT ; Sacha;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;Sophie.monleau@gmail.com;abcd1234;;ROUSSEL ; Charly;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;eve.roustan@gmail.com;abcd1234;;ROUSTAN ; Basile;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;eve.roustan@gmail.com;abcd1234;;ROUSTAN ; Theophile;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;gab.snchz1@gmail.com;abcd1234;;SANCHEZ ; Gabriel;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;remy13_98@hotmail.com;abcd1234;;SICARD ; Mael;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;gregory@sbassurances.com;abcd1234;;SIFFREIN BLANC ;Gregory;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;annacecile@hotmail.fr;abcd1234;;SIFFREIN-BLANC ; Alex;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;Sandrine.sollier@yahoo.fr;abcd1234;;SOLLIER ; Kylian;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;guillaumesoulet@sfr.fr;abcd1234;;SOULET ; Albano;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;alain.stevanovitch@free.fr;abcd1234;;STEVANOVITCH ;Alain;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;alainetflorence@free.fr;abcd1234;;STEVANOVITCH ;Clément;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;stephanegaillard@rocketmail.com;abcd1234;;STURIANO GAILLARD ; Virgile;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;greg38320@gmail.com;abcd1234;;TARRADE ;Gregory;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;m.sabas@wanadoo.fr;abcd1234;;TAUREL ; Charles;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;thomas.teffaine@hotmail.fr;abcd1234;;TEFFAINE ; Thomas;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;gtintorri@gmail.com;abcd1234;;TINTORRI ; Géraldine;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;axeldambre@gmail.com;abcd1234;;TORRE ;Alexandre;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;thibaut.toupin@gmail.com;abcd1234;;TOUPIN ;Thibaut;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;gregory.trucy@gmail.com;abcd1234;;TRUCY ; Grégory;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;vendassi_l@hotmail.com;abcd1234;;VALLIERE ; Lilia;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;vendassi_l@hotmail.com;abcd1234;;VALLIERE ; Mathéo;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;stephanie.grousset@hotmail.fr;abcd1234;;VALTIN ; David;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;justinevanoli@gmail.com;abcd1234;;VANOLI ; Justine;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;chacha2ret@yahoo.fr;abcd1234;;VASSALLO; Léon;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;verdier.emilien@hotmail.fr;abcd1234;;VERDIER ; Emilien;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;anthonyncap11@outlook.fr;abcd1234;;VIGNERON ; Anthonyn;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;flo.camoin@gmail.com;abcd1234;;VILARDI ;Florence;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;jp.vilardi@gmail.com;abcd1234;;VILARDI ;Giulian;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;flo.camoin@gmail.com;abcd1234;;VILARDI; Lény;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;xavier.viola@gmail.com;abcd1234;;VIOLA ; Arthur;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;viola.marine@gmail.com;abcd1234;;VIOLA ; Victor;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;christophevolsan@gmail.com;abcd1234;;VOLSAN ; Loane;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;celine.wegmuller@sfr.fr;abcd1234;;WEGMULLER ; Liv;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;windelsmickael7@gmail.com;abcd1234;;WINDELS; Mickael;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;bertrand_wuillemme@yahoo.fr;abcd1234;;WUILLEMME ; Bertrand;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;bertrand_wuillemme@yahoo.fr;abcd1234;;WUILLEMME ;Noah;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;lolazapateria05@gmail.com;abcd1234;;ZAPATERIA ; Lola;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;lolazapateria05@gmail.com;abcd1234;;ZAPATERIA ; Lola;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;j.zwikel@ffhg.eu;abcd1234;;ZWIKEL ; Jonathan;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;j.zwikel@ffhg.eu;abcd1234;;ZWIKEL ;Jonathan;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;mzwikel@live.fr;abcd1234;;ZWIKEL ; Zak;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 
+;1;;laurie30-52@hotmail.fr;abcd1234;;ZYDEK ; Laurie;1;1;22/11/2022;Abonné MHC;;MARSEILLE HOCKEY CLUB 

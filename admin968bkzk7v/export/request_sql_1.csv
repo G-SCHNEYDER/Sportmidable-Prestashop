@@ -1,0 +1,301 @@
+id_product;reference;price;test;id_shop_default;is_virtual;name;link_rewrite;active;shopname;id_image;name_category;price_final;nb_downloadable;sav_quantity;badge_danger
+5333;301FG30;0.000000;test;1;0;"POLO KAPPA MSS";polo-kappa-mss;0;Base;;Polo;0;;0;1
+5332;3113G2W;0.000000;test;1;0;ABRIXIO;abrixio;0;Base;;Autre;0;;0;1
+5331;3024AC0;0.000000;test;1;0;CARCARELLA;carcarella;0;Base;;Polaire;0;;0;1
+5330;3025A30;0.000000;test;1;0;"MOURIA TEE";mouria-tee;0;Base;;Accessoire;0;;0;1
+5329;3025A20;0.000000;test;1;0;CARBOLLA;carbolla;0;Base;;Accessoire;0;;0;1
+5328;3117FUW;0.000000;test;1;0;"ORVIETO X12";orvieto-x12;0;Base;;"Porte gourde";0;;0;1
+5327;3117FHW;0.000000;test;1;0;BONKA;bonka;0;Base;;Sacoche;0;;0;1
+5326;31175LW;0.000000;test;1;0;ORVI;orvi;0;Base;;"Porte gourde";0;;0;1
+5325;31175JW;0.000000;test;1;0;SANREMO;sanremo;0;Base;;Short;0;;0;1
+5324;3115IJW;0.000000;test;1;0;VENEZIA;venezia;0;Base;;"Veste à capuche";0;;0;1
+5323;3115IIW;0.000000;test;1;0;SAVONE;savone;0;Base;;"Pantalon moleton";0;;0;1
+5322;3115IHW;0.000000;test;1;0;ERICE;erice;0;Base;;Fuseau;0;;0;1
+5321;3115CSW;0.000000;test;1;0;TELLARO;tellaro;0;Base;;"Sac de sport";0;;0;1
+5320;3115CRW;0.000000;test;1;0;TORTONA;tortona;0;Base;;"Veste à capuche";0;;0;1
+5319;311542W;0.000000;test;1;0;CALEIPO;caleipo;0;Base;;"Serviettes de bain";0;;0;1
+5318;311541W;0.000000;test;1;0;WULGAR;wulgar;0;Base;;Chaussettes;0;;0;1
+5317;31153QW;0.000000;test;1;0;DIMARO;dimaro;0;Base;;"Pantalon de survêtement";0;;0;1
+5316;31153PW;0.000000;test;1;0;DIVIETO;divieto;0;Base;;"Veste à capuche";0;;0;1
+5315;31153NW;0.000000;test;1;0;DIANO;diano;0;Base;;"Sweat à capuche";0;;0;1
+5314;31153MW;0.000000;test;1;0;PARME;parme;0;Base;;"Sweat col rond";0;;0;1
+5313;31153LW;0.000000;test;1;0;DOLCEDO;dolcedo;0;Base;;Fuseau;0;;0;1
+5312;31153KW;0.000000;test;1;0;VERONE;verone;0;Base;;"Veste survêtement";0;;0;1
+5311;31153JW;0.000000;test;1;0;TRIESTE;trieste;0;Base;;"Sweat col 1/4 zip";0;;0;1
+5310;31153IW;0.000000;test;1;0;DIOLO;diolo;0;Base;;Parka;0;;0;1
+5309;31153HW;0.000000;test;1;0;ODOLON;odolon;0;Base;;Softshell;0;;0;1
+5308;31153GW;0.000000;test;1;0;LAMEZIA;lamezia;0;Base;;Doudoune;0;;0;1
+5307;31153FW;0.000000;test;1;0;LAMEZIO;lamezio;0;Base;;Doudoune;0;;0;1
+5306;31153EW;0.000000;test;1;0;DATTILO;dattilo;0;Base;;"Doudoune sans manche";0;;0;1
+5305;31153CW;0.000000;test;1;0;ANCONE;ancone;0;Base;;T-shirt;0;;0;1
+5304;31153BW;0.000000;test;1;0;CALDES;caldes;0;Base;;Polo;0;;0;1
+5303;311539W;0.000000;test;1;0;DEGGIANO;deggiano;0;Base;;"Maillot manches courtes";0;;0;1
+5302;311537W;0.000000;test;1;0;DOMASO;domaso;0;Base;;Short;0;;0;1
+5301;31152QW;0.000000;test;1;0;DELEBIO;delebio;0;Base;;Short;0;;0;1
+5300;31152PW;0.000000;test;1;0;DERVIO;dervio;0;Base;;"Maillot manches courtes";0;;0;1
+5299;304VPN0;0.000000;test;1;0;"PLAYER ALBERG 4";player-alberg-4;0;Base;;Short;0;;0;1
+5298;304PDQ0;18.333333;test;1;0;"MAILLOT CASTOLO MC - ORANGE/NOIR";maillot-castolo-mc-orangenoir;0;Base;24001;"Les produits";0;;0;1
+5297;304VPJ0;0.000000;test;1;0;"PLAYER ADVERZIP PRO 4";player-adverzip-pro-4;0;Base;;"Veste de pluie";0;;0;1
+5296;304VNF0;0.000000;test;1;0;"PLAYER ABUNSZIP PRO 4";player-abunszip-pro-4;0;Base;;Fuseau;0;;0;1
+5295;304VNE0;0.000000;test;1;0;"PLAYER ARAIN PRO 4";player-arain-pro-4;0;Base;;Sweat;0;;0;1
+5294;304VNB0;0.000000;test;1;0;"PLAYER ABLAS PRO 4";player-ablas-pro-4;0;Base;;"Sweat col 1/4 zip";0;;0;1
+5293;304VNA0;0.000000;test;1;0;"PLAYER ALDREN PRO 4";player-aldren-pro-4;0;Base;;"Sweat col rond";0;;0;1
+5292;304UTU0;0.000000;test;1;0;"PLAYER AHORA PRO 4";player-ahora-pro-4;0;Base;;Short;0;;0;1
+5291;304UTM0;0.000000;test;1;0;"PLAYER ABOU PRO 4";player-abou-pro-4;0;Base;;"Maillot manches courtes";0;;0;1
+5290;304UKR0;0.000000;test;1;0;BIRDIO;birdio;0;Base;;Running;0;;0;1
+5289;304UJX0;0.000000;test;1;0;BACKPACK;backpack;0;Base;;"Sac à dos";0;;0;1
+5288;304UJW0;0.000000;test;1;0;HARDBASE;hardbase;0;Base;;"Sac de sport";0;;0;1
+5287;304TTM0;0.000000;test;1;0;TELVE;telve;0;Base;;"Veste à capuche";0;;0;1
+5286;304TTL0;0.000000;test;1;0;TELESE;telese;0;Base;;"Maillot manches courtes";0;;0;1
+5285;304TTK0;0.000000;test;1;0;TAVOLE;tavole;0;Base;;"Sweat col 1/4 zip";0;;0;1
+5284;304TTJ0;0.000000;test;1;0;TALSANO;talsano;0;Base;;"Sweat col rond";0;;0;1
+5283;304TSW0;0.000000;test;1;0;MELETO;meleto;0;Base;;T-shirt;0;;0;1
+5282;304TST0;0.000000;test;1;0;MELETI;meleti;0;Base;;T-shirt;0;;0;1
+5281;304TSS0;0.000000;test;1;0;MEDUNO;meduno;0;Base;;Veste;0;;0;1
+5280;304TSP0;0.000000;test;1;0;MARTIO;martio;0;Base;;"Veste de pluie";0;;0;1
+5279;304TSN0;0.000000;test;1;0;MARCO;marco;0;Base;;"Veste à capuche";0;;0;1
+5278;304TSH0;0.000000;test;1;0;SALCI;salci;0;Base;;Fuseau;0;;0;1
+5277;304TSG0;0.000000;test;1;0;ROVIGA;roviga;0;Base;;"Maillot manches courtes";0;;0;1
+5276;304TSE0;0.000000;test;1;0;PELOSA;pelosa;0;Base;;Legging;0;;0;1
+5275;304TSD0;0.000000;test;1;0;PEGLIO;peglio;0;Base;;Polo;0;;0;1
+5274;304TSC0;0.000000;test;1;0;PECI;peci;0;Base;23999;"Bermuda moleton";0;;0;1
+5273;304TSB0;0.000000;test;1;0;PATTI;patti;0;Base;;Legging;0;;0;1
+5272;304TS80;0.000000;test;1;0;PASSO;passo;0;Base;;Short;0;;0;1
+5271;304TS40;0.000000;test;1;0;MIEMO;miemo;0;Base;;"Pantalon moleton";0;;0;1
+5270;304TS00;0.000000;test;1;0;MENATA;menata;0;Base;;Polo;0;;0;1
+5269;304TQH0;0.000000;test;1;0;LIVON;livon;0;Base;;"Cuissard court";0;;0;1
+5268;304TQG0;0.000000;test;1;0;LIVERI;liveri;0;Base;;Legging;0;;0;1
+5267;304TQF0;0.000000;test;1;0;LIVERA;livera;0;Base;;Legging;0;;0;1
+5266;304TQE0;0.000000;test;1;0;LIVA;liva;0;Base;;"Cuissard court";0;;0;1
+5265;304TPQ0;0.000000;test;1;0;FALZES;falzes;0;Base;;Short;0;;0;1
+5264;304TPP0;0.000000;test;1;0;FALZA;falza;0;Base;;Short;0;;0;1
+5263;304TPM0;0.000000;test;1;0;FAEDIS;faedis;0;Base;;"Maillot manches courtes";0;;0;1
+5262;304TP90;0.000000;test;1;0;"FOGGIA 2";foggia-2;0;Base;;"Pantalon de pluie";0;;0;1
+5261;304TP80;0.000000;test;1;0;FANTO;fanto;0;Base;;"Maillot manches courtes";0;;0;1
+5260;304TP70;0.000000;test;1;0;FANTI;fanti;0;Base;;"Maillot manches courtes";0;;0;1
+5259;304TP60;0.000000;test;1;0;FANIO;fanio;0;Base;;"Maillot manches courtes";0;;0;1
+5258;304TP50;0.000000;test;1;0;FANIA;fania;0;Base;;"Maillot manches courtes";0;;0;1
+5257;304TNH0;0.000000;test;1;0;CERCHIO;cerchio;0;Base;;"Veste de pluie";0;;0;1
+5256;304TNG0;0.000000;test;1;0;"CASERNHOR LS";casernhor-ls;0;Base;;"Maillot manches longues";0;;0;1
+5255;304TNE0;0.000000;test;1;0;"CASERNHOR SS";casernhor-ss;0;Base;;"Maillot manches courtes";0;;0;1
+5254;304TND0;0.000000;test;1;0;CALUSO;caluso;0;Base;;Short;0;;0;1
+5253;304TMZ0;0.000000;test;1;0;BASILO;basilo;0;Base;;"Sweat à capuche";0;;0;1
+5252;304TMY0;0.000000;test;1;0;BACENA;bacena;0;Base;;"Pantalon moleton";0;;0;1
+5251;304TMT0;0.000000;test;1;0;ACCIOZI;acciozi;0;Base;;"Sweat à capuche";0;;0;1
+5250;304TMB0;0.000000;test;1;0;CALUSA;calusa;0;Base;;Short;0;;0;1
+5249;304TMA0;0.000000;test;1;0;CALASCIA;calascia;0;Base;;"Maillot manches courtes";0;;0;1
+5248;304TM10;0.000000;test;1;0;CAIROSI;cairosi;0;Base;;Kit;0;;0;1
+5247;304TM00;0.000000;test;1;0;CAIRO;cairo;0;Base;;"Maillot manches courtes";0;;0;1
+5246;304TKK0;0.000000;test;1;0;SPONGIO;spongio;0;Base;;Accessoire;0;;0;1
+5245;304SQX0;0.000000;test;1;0;"MATESE 3";matese-3;0;Base;;Claquette;0;;0;1
+5244;304SLS0;0.000000;test;1;0;CAIRA;caira;0;Base;;"Maillot manches courtes";0;;0;1
+5243;304SG10;0.000000;test;1;0;BAPOV;bapov;0;Base;;Casquette;0;;0;1
+5242;304RB70;0.000000;test;1;0;TEE;tee;0;Base;;T-shirt;0;;0;1
+5241;304PDT0;14.166667;test;1;0;CURCHET;curchet;0;Base;24002;Short;0;;0;1
+5240;304PDR0;0.000000;test;1;0;CINANDA;cinanda;0;Base;;"Maillot manches longues";0;;0;1
+5238;304MBC0;0.000000;test;1;0;LANA;lana;0;Base;;Short;0;;0;1
+5237;304MBA0;0.000000;test;1;0;LAMBRE;lambre;0;Base;;Short;0;;0;1
+5236;304IR30;0.000000;test;1;0;"VARESO SHORT";vareso-short;0;Base;;Short;0;;0;1
+5235;304IR00;0.000000;test;1;0;"VACONE TRACK JKT";vacone-track-jkt;0;Base;;"Veste survêtement";0;;0;1
+5234;304IPT0;0.000000;test;1;0;"ROVIGO JERSEY LS";rovigo-jersey-ls;0;Base;;"Maillot manches longues";0;;0;1
+5233;304IPR0;0.000000;test;1;0;"ROVIGO JERSEY SS";rovigo-jersey-ss;0;Base;;"Maillot manches courtes";0;;0;1
+5232;304IPP0;0.000000;test;1;0;"REDENA SHORT";redena-short;0;Base;;Short;0;;0;1
+5231;304IPN0;0.000000;test;1;0;"PONTE PANTS ULTRA FIT";ponte-pants-ultra-fit;0;Base;;Fuseau;0;;0;1
+5230;304IPM0;0.000000;test;1;0;"PIANETTI POLO";pianetti-polo;0;Base;;Polo;0;;0;1
+5229;304IPL0;0.000000;test;1;0;"PAGGO SHORT";paggo-short;0;Base;;Short;0;;0;1
+5228;304IPK0;0.000000;test;1;0;"PADERNO JERSEY SS";paderno-jersey-ss;0;Base;;"Maillot manches courtes";0;;0;1
+5227;304IPJ0;0.000000;test;1;0;"NOVARE SWEAT";novare-sweat;0;Base;;"Sweat col 1/4 zip";0;;0;1
+5226;304IPI0;0.000000;test;1;0;"MOLISE JERSEY SS";molise-jersey-ss;0;Base;;"Maillot manches courtes";0;;0;1
+5225;304IP60;0.000000;test;1;0;"TRANIO COL POLO";tranio-col-polo;0;Base;;"Maillot manches courtes";0;;0;1
+5224;304IP50;0.000000;test;1;0;"TARENTE TRACK PANTS";tarente-track-pants;0;Base;;"Pantalon survêtement";0;;0;1
+5223;304IP40;0.000000;test;1;0;"TALBINO SHORT";talbino-short;0;Base;;Short;0;;0;1
+5222;304IP30;0.000000;test;1;0;"SIANO TEE";siano-tee;0;Base;;T-shirt;0;;0;1
+5221;304IP20;0.000000;test;1;0;"SALTO POLO";salto-polo;0;Base;;Polo;0;;0;1
+5220;304IP10;0.000000;test;1;0;"SALCITO TKS";salcito-tks;0;Base;;Survêtement;0;;0;1
+5219;304INH0;0.000000;test;1;0;"MESTRE LONG SHORT";mestre-long-short;0;Base;;Short;0;;0;1
+5218;304IND0;0.000000;test;1;0;"MARETO JERSEY LS";mareto-jersey-ls;0;Base;;"Maillot manches longues";0;;0;1
+5217;304INC0;0.000000;test;1;0;"MARETO JERSEY SS";mareto-jersey-ss;0;Base;;"Maillot manches courtes";0;;0;1
+5216;304INA0;0.000000;test;1;0;"MARETA JERSEY SS";mareta-jersey-ss;0;Base;;"Maillot manches courtes";0;;0;1
+5215;304IN90;0.000000;test;1;0;"LIDO SWEAT";lido-sweat;0;Base;;"Sweat col rond";0;;0;1
+5214;304IN80;0.000000;test;1;0;"GAGGIO WINDBREAKER SWEAT";gaggio-windbreaker-sweat;0;Base;;Sweat;0;;0;1
+5213;304ILL0;0.000000;test;1;0;"ALDA CABIN CASE";alda-cabin-case;0;Base;;"Sac à roulette";0;;0;1
+5212;304IJU0;0.000000;test;1;0;"CASERNE JERSEY LS";caserne-jersey-ls;0;Base;;"Maillot manches longues";0;;0;1
+5211;304IJT0;0.000000;test;1;0;"BACENO PANTS";baceno-pants;0;Base;;"Pantalon moleton";0;;0;1
+5210;304IJS0;0.000000;test;1;0;"ACCIO HOODIE";accio-hoodie;0;Base;;"Sweat à capuche";0;;0;1
+5209;304IJR0;0.000000;test;1;0;"ACCIA HOODIE";accia-hoodie;0;Base;;"Sweat à capuche";0;;0;1
+5208;304IEH0;0.000000;test;1;0;"GOALKEEPER TEE";goalkeeper-tee;0;Base;;"Textile Haut";0;;0;1
+5207;304I6Z0;0.000000;test;1;0;"LAMBERTO BACKPACK";lamberto-backpack;0;Base;;"Sac à dos";0;;0;1
+5206;304I6Y0;0.000000;test;1;0;"BRENNO SPORT BAG";brenno-sport-bag;0;Base;;"Sac de sport";0;;0;1
+5205;304I620;0.000000;test;1;0;"VELIA BACKPACK";velia-backpack;0;Base;;"Sac à dos";0;;0;1
+5204;304I610;0.000000;test;1;0;"TARCISIO TROLLEY BAG";tarcisio-trolley-bag;0;Base;;"Sac à roulette";0;;0;1
+5203;303ZPU0;0.000000;test;1;0;"ACADEMIO BALL PLAYER 20.5E";academio-ball-player-205e;0;Base;;"Foot entrainement";0;;0;1
+5202;303ZPS0;0.000000;test;1;0;"HYBRIDO BALL PLAYER 20.3A HYB";hybrido-ball-player-203a-hyb;0;Base;;"Foot entrainement";0;;0;1
+5201;303ZPQ0;0.000000;test;1;0;"PALLONE PRO PLAYER 20.1B THB FA";pallone-pro-player-201b-thb-fa;0;Base;;"Foot match";0;;0;1
+5200;303ZEQ0;0.000000;test;1;0;"PLAYER CAPTAIN";player-captain;0;Base;;Accessoire;0;;0;1
+5199;303TBD0;0.000000;test;1;0;ASTON;aston;0;Base;;Débardeur;0;;0;1
+5198;303TAA0;0.000000;test;1;0;"YSIKA GYM BAG X6";ysika-gym-bag-x6;0;Base;;Autre;0;;0;1
+5197;303REZ0;0.000000;test;1;0;AMILA;amila;0;Base;;Débardeur;0;;0;1
+5196;303RE00;0.000000;test;1;0;ASHIRO;ashiro;0;Base;;Short;0;;0;1
+5195;303RDD0;0.000000;test;1;0;WINCAN;wincan;0;Base;;"Pantalon survêtement";0;;0;1
+5194;303RDC0;0.000000;test;1;0;WESON;weson;0;Base;;"Veste à capuche";0;;0;1
+5193;303MMT0;0.000000;test;1;0;WRANZON;wranzon;0;Base;;Kit;0;;0;1
+5192;303MB80;0.000000;test;1;0;"SEDDOLO PADDED JKT";seddolo-padded-jkt;0;Base;;Parka;0;;0;1
+5191;303MB70;0.000000;test;1;0;"BALZIO MEDICAL BAG";balzio-medical-bag;0;Base;;Autre;0;;0;1
+5190;303MB60;0.000000;test;1;0;LIPENO;lipeno;0;Base;;Chaussettes;0;;0;1
+5189;303L650;0.000000;test;1;0;"SALENTO SHORT";salento-short;0;Base;;Short;0;;0;1
+5188;303JV30;0.000000;test;1;0;"GOALKEEPER LONGPANT";goalkeeper-longpant;0;Base;;"Textile bas";0;;0;1
+5187;303JV20;0.000000;test;1;0;"GOALKEEPER SHORTS";goalkeeper-shorts;0;Base;;"Textile bas";0;;0;1
+5186;303JIT0;0.000000;test;1;0;WISTER;wister;0;Base;;"Veste de pluie";0;;0;1
+5185;303JIS0;0.000000;test;1;0;WAPLES;waples;0;Base;;Doudoune;0;;0;1
+5184;303JIP0;0.000000;test;1;0;WINCY;wincy;0;Base;;"Pantalon survêtement";0;;0;1
+5183;303JIN0;0.000000;test;1;0;WESCOR;wescor;0;Base;;"Veste à capuche";0;;0;1
+5182;303JIK0;0.000000;test;1;0;WUSIS;wusis;0;Base;;Short;0;;0;1
+5181;303JIJ0;0.000000;test;1;0;WENET;wenet;0;Base;;"Maillot manches courtes";0;;0;1
+5180;303HV50;0.000000;test;1;0;"CASERNE JERSEY SS";caserne-jersey-ss;0;Base;;"Maillot manches courtes";0;;0;1
+5179;3031IN0;0.000000;test;1;0;"CAPITO BALL PLAYER 20.3C";capito-ball-player-203c;0;Base;;"Foot entrainement";0;;0;1
+5178;30312EO;0.000000;test;1;0;"AVES 2";aves-2;0;Base;;Gants;0;;0;1
+5177;30312C0;0.000000;test;1;0;"ATTEN 2";atten-2;0;Base;;Bonnet;0;;0;1
+5176;30312B0;0.000000;test;1;0;"ANTUN 2";antun-2;0;Base;;Bonnet;0;;0;1
+5175;302V9L0;0.000000;test;1;0;"ELENO PACK OF 3 SOCKS";eleno-pack-of-3-socks;0;Base;;Chaussettes;0;;0;1
+5174;302UTZ0;0.000000;test;1;0;LYNA;lyna;0;Base;;Chaussettes;0;;0;1
+5173;302THK0;0.000000;test;1;0;"LOGO KAFERS";logo-kafers;0;Base;;T-shirt;0;;0;1
+5172;302SDI0;0.000000;test;1;0;PENAO;penao;0;Base;;Chaussettes;0;;0;1
+5171;302PBQ0;0.000000;test;1;0;"KAPPA 4 GOLF WSS SLIM FIT";kappa-4-golf-wss-slim-fit;0;Base;;Polo;0;;0;1
+5170;302DS00;0.000000;test;1;0;VALAS;valas;0;Base;;Softshell;0;;0;1
+5169;302CUP0;0.000000;test;1;0;"NIPOLA X5";nipola-x5;0;Base;;Chasuble;0;;0;1
+5168;302BNA0;0.000000;test;1;0;"UNDERSHORT KAPPA4SKIN KOMBAT VURGAY";undershort-kappa4skin-kombat-vurgay;0;Base;;"Sous vêtement bas";0;;0;1
+5167;302BN90;0.000000;test;1;0;"VURBAT UNDERSHIRT LS";vurbat-undershirt-ls;0;Base;;"Sous vêtement haut";0;;0;1
+5166;302BLI0;0.000000;test;1;0;VIGOVA;vigova;0;Base;;Short;0;;0;1
+5165;302BKG0;0.000000;test;1;0;KANTO;kanto;0;Base;;Autre;0;;0;1
+5164;302BKE0;0.000000;test;1;0;BAHO;baho;0;Base;;Autre;0;;0;1
+5163;3028VH0;0.000000;test;1;0;"CHIMIDO SPORT CO X3";chimido-sport-co-x3;0;Base;;Chaussettes;0;;0;1
+5162;3027UQ0;0.000000;test;1;0;"LOGO GOLF MLS";logo-golf-mls;0;Base;;Polo;0;;0;1
+5161;3027LA0;0.000000;test;1;0;"KAPPA4RUGBY MARCO";kappa4rugby-marco;0;Base;;"Rugby match";0;;0;1
+5160;3025P20;0.000000;test;1;0;"HELMET TRIMO";helmet-trimo;0;Base;;Accessoire;0;;0;1
+5159;3024BI0;0.000000;test;1;0;"BOZIA REVERSIBLE TANK";bozia-reversible-tank;0;Base;;Chasuble;0;;0;1
+5154;3001694070011;0.000000;test;1;0;"NBA SPALDEENS GSW (51-185Z) VPE 24pcs";nba-spaldeens-gsw-51-185z-vpe-24pcs;0;Base;;"Basketball autres";0;;0;1
+5153;3001694060011;0.000000;test;1;0;"NBA SPALDEENS NYK (51-196Z) VPE 24pcs";nba-spaldeens-nyk-51-196z-vpe-24pcs;0;Base;;"Basketball autres";0;;0;1
+5152;3001694050011;0.000000;test;1;0;"NBA SPALDEENS BC (51-189Z) VPE 24pcs";nba-spaldeens-bc-51-189z-vpe-24pcs;0;Base;;"Basketball autres";0;;0;1
+5151;3001694040011;0.000000;test;1;0;"NBA SPALDEENS LA (51-197Z) VPE 24pcs";nba-spaldeens-la-51-197z-vpe-24pcs;0;Base;;"Basketball autres";0;;0;1
+5150;3001694030011;0.000000;test;1;0;"NBA SPALDEENS BULLS (51-179Z) VPE 24pcs";nba-spaldeens-bulls-51-179z-vpe-24pcs;0;Base;;"Basketball autres";0;;0;1
+5149;3001694020011;0.000000;test;1;0;"NBA SPALDEENS CAVS (51-180Z) VPE 24pcs";nba-spaldeens-cavs-51-180z-vpe-24pcs;0;Base;;"Basketball autres";0;;0;1
+5148;3001694010011;0.000000;test;1;0;"NBA SPALDEENS GB (51-161Z) VPE 24pcs";nba-spaldeens-gb-51-161z-vpe-24pcs;0;Base;;"Basketball autres";0;;0;1
+5147;3001673011144;0.000000;test;1;0;"NBA HIGHLIGHT BACKBOARD (80-453CN)";nba-highlight-backboard-80-453cn;0;Base;;;0;;0;1
+5146;3001671011444;0.000000;test;1;0;"NBA POLYCARBONAT BACKBOARD (79-351CN)";nba-polycarbonat-backboard-79-351cn;0;Base;;Panier;0;;0;1
+5145;3001660010060;0.000000;test;1;0;"NBA BEAST PORTABLE (74-560CN)";nba-beast-portable-74-560cn;0;Base;;Panier;0;;0;1
+5144;3001658011544;0.000000;test;1;0;"NBA JUNIOR PORTABLE (58-969CN)";nba-junior-portable-58-969cn;0;Base;;Panier;0;;0;1
+5143;3001658011444;0.000000;test;1;0;"NBA LOGOMAN PORTABLE (61-753CN)";nba-logoman-portable-61-753cn;0;Base;;Panier;0;;0;1
+5142;3001658010934;0.000000;test;1;0;"NBA JUNIOR SHOOT-CASE (5H-970CN))";nba-junior-shoot-case-5h-970cn;0;Base;;Panier;0;;0;1
+5141;3001653011942;0.000000;test;1;0;"NBA ULTIMATE HYBRID PORTABLE (71-674CN)";nba-ultimate-hybrid-portable-71-674cn;0;Base;;Panier;0;;0;1
+5140;3001653010952;0.000000;test;1;0;"NBA HIGHLIGHT ACRYLIC PORT. (73-990CN)";nba-highlight-acrylic-port-73-990cn;0;Base;;Panier;0;;0;1
+5139;3001653010942;0.000000;test;1;0;"NBA GAMETIME SERIES (73-655CN)";nba-gametime-series-73-655cn;0;Base;;Panier;0;;0;1
+5138;3001651021454;0.000000;test;1;0;"NBA GOLD IN-GROUND (88-365CN)";nba-gold-in-ground-88-365cn;0;Base;;Panier;0;;0;1
+5137;3001651010948;0.000000;test;1;0;"NBA GOLD PORTABLE (66-634CN)";nba-gold-portable-66-634cn;0;Base;;Panier;0;;0;1
+5136;3001650011454;0.000000;test;1;0;"NBA PLATINUM PORTABLE (68-564CN)";nba-platinum-portable-68-564cn;0;Base;;Panier;0;;0;1
+5135;3001649100001;0.000000;test;1;0;"JUMP STRENGTH (8478CN)";jump-strength-8478cn;0;Base;;;0;;0;1
+5134;3001648100001;0.000000;test;1;0;"LATERAL RESISTOR (8479CN)";lateral-resistor-8479cn;0;Base;;;0;;0;1
+5133;3001647100001;0.000000;test;1;0;"HANDLE SLEEVE (8477CN)";handle-sleeve-8477cn;0;Base;;;0;;0;1
+5132;3001646200001;0.000000;test;1;0;"BLOCKING PAD (8483CN)";blocking-pad-8483cn;0;Base;;;0;;0;1
+5131;3001646100001;0.000000;test;1;0;"POP-UP GUARD (8488CN)";pop-up-guard-8488cn;0;Base;;;0;;0;1
+5130;3001645100003;0.000000;test;1;0;"DRIBBLE GOGGLES (8481cn)";dribble-goggles-8481cn;0;Base;;;0;;0;1
+5129;3001645100002;0.000000;test;1;0;"SHOOTING SPOT (8476cn)";shooting-spot-8476cn;0;Base;;;0;;0;1
+5128;3001645100001;0.000000;test;1;0;"MARKING DISKS (8432s)";marking-disks-8432s;0;Base;;Entrainement;0;;0;1
+5127;3001598032105;0.000000;test;1;0;"BEACHVOLLEYBALL TWISTER SZ.5 (72-344Z)";beachvolleyball-twister-sz5-72-344z;0;Base;;Beachvolley;0;;0;1
+5126;3001598031905;0.000000;test;1;0;"BEACHVOLLEYBALL HURRICANE SZ.5 (72-342Z)";beachvolleyball-hurricane-sz5-72-342z;0;Base;;Beachvolley;0;;0;1
+5125;3001598031805;0.000000;test;1;0;"BEACHVOLLEYBALL CYCLONE SZ.5 (72-341Z)";beachvolleyball-cyclone-sz5-72-341z;0;Base;;Beachvolley;0;;0;1
+5124;3001598031705;0.000000;test;1;0;"BEACHVOLLEYBALL TORNADO SZ.5 (72-343Z)";beachvolleyball-tornado-sz5-72-343z;0;Base;;Beachvolley;0;;0;1
+5123;3001597020917;0.000000;test;1;0;"NBA TRAINER OVERSIZED (74-878Z)";nba-trainer-oversized-74-878z;0;Base;;"Basketball entrainement";0;;0;1
+5122;3001597010917;0.000000;test;1;0;"TF TRAINER HEAVY BALL SZ.7 (74-880Z)";tf-trainer-heavy-ball-sz7-74-880z;0;Base;;;0;;0;1
+5121;3001595030015;0.000000;test;1;0;"NBA SILVER IN/OUT SZ.5 (76-375Z)";nba-silver-in-out-sz5-76-375z;0;Base;;"Basketball match";0;;0;1
+5120;3001595020017;0.000000;test;1;0;"NBA SILVER IN/OUT SZ.7 (76-018Z)";nba-silver-in-out-sz7-76-018z;0;Base;;"Basketball match";0;;0;1
+5119;3001595012416;0.000000;test;1;0;"NBA JUNIOR IN/OUT SZ.6 (74-945Z)";nba-junior-in-out-sz6-74-945z;0;Base;;"Basketball match";0;;0;1
+5118;3001595011515;0.000000;test;1;0;"JR. NBA / ROOKIE GEAR OUT SZ.5 (83-419Z)";jr-nba-rookie-gear-out-sz5-83-419z;0;Base;;"Basketball autres";0;;0;1
+5117;3001595011514;0.000000;test;1;0;"ROOKIE GEAR OUT SZ.4 (83-951Z)";rookie-gear-out-sz4-83-951z;0;Base;;"Basketball autres";0;;0;1
+5116;3001594040031;0.000000;test;1;0;"NBA PLAYER STEPHEN CURRY SZ.1.5(65-010Z)";nba-player-stephen-curry-sz1565-010z;0;Base;;"Basketball Replica";0;;0;1
+5115;3001594040021;0.000000;test;1;0;"NBA PLAYER LEBRON JAMES SZ.1.5 (65-006Z)";nba-player-lebron-james-sz15-65-006z;0;Base;;"Basketball Replica";0;;0;1
+5114;3001594040011;0.000000;test;1;0;"NBA MINIBALL SZ.1 (66-993Z)";nba-miniball-sz1-66-993z;0;Base;;;0;;0;1
+5113;3001594030011;0.000000;test;1;0;"NBA MINIBALL SZ.1 (66-994Z)";nba-miniball-sz1-66-994z;0;Base;;;0;;0;1
+5112;3001594020011;0.000000;test;1;0;"NBA MINIBALL SZ.1 (66-995Z)";nba-miniball-sz1-66-995z;0;Base;;;0;;0;1
+5111;3001594010030;0.000000;test;1;0;"SPALDING MACROMINI 10-PIECES";spalding-macromini-10-pieces;0;Base;;;0;;0;1
+5110;3001592020017;0.000000;test;1;0;"NBA SILVER OUTDOOR SZ.7 (83-494Z)";nba-silver-outdoor-sz7-83-494z;0;Base;;"Basketball match";0;;0;1
+5109;3001592020016;0.000000;test;1;0;"NBA SILVER OUTDOOR SZ.6 (83-569Z)";nba-silver-outdoor-sz6-83-569z;0;Base;;"Basketball match";0;;0;1
+5108;3001592020015;0.000000;test;1;0;"NBA SILVER OUTDOOR SZ.5 (83-568Z)";nba-silver-outdoor-sz5-83-568z;0;Base;;"Basketball match";0;;0;1
+5107;3001589020017;0.000000;test;1;0;"NBA GOLD IN/OUT SZ.7 (76-014Z)";nba-gold-in-out-sz7-76-014z;0;Base;;"Basketball match";0;;0;1
+5106;3001589020016;0.000000;test;1;0;"NBA GOLD IN/OUT SZ.6 (76-107Z)";nba-gold-in-out-sz6-76-107z;0;Base;;"Basketball match";0;;0;1
+5105;3001589020015;0.000000;test;1;0;"NBA GOLD IN/OUT SZ.5 (76-106Z)";nba-gold-in-out-sz5-76-106z;0;Base;;"Basketball match";0;;0;1
+5104;3001589014017;0.000000;test;1;0;"NBA PLAYER LEBRON JAMES SZ.7 (83-848Z)";nba-player-lebron-james-sz7-83-848z;0;Base;;"Basketball Replica";0;;0;1
+5103;3001589014015;0.000000;test;1;0;"NBA PLAYER LEBRON JAMES SZ.5 (83-863Z)";nba-player-lebron-james-sz5-83-863z;0;Base;;"Basketball Replica";0;;0;1
+5102;3001588020617;0.000000;test;1;0;"NBA MINIBOARD LA LAKERS (77-656Z)";nba-miniboard-la-lakers-77-656z;0;Base;;Entrainement;0;;0;1
+5101;3001588013617;0.000000;test;1;0;"NBA MINIBOARD BOSTON CELTICS (77-651Z)";nba-miniboard-boston-celtics-77-651z;0;Base;;Entrainement;0;;0;1
+5100;3001588012117;0.000000;test;1;0;"NBA MINIBOARD GOLDEN STATE (77-661Z)";nba-miniboard-golden-state-77-661z;0;Base;;Entrainement;0;;0;1
+5099;3001588011717;0.000000;test;1;0;"NBA MINIBOARD NY KNICKS (77-655Z)";nba-miniboard-ny-knicks-77-655z;0;Base;;Entrainement;0;;0;1
+5098;3001588011517;0.000000;test;1;0;"NBA MINIBOARD CHICAGO BULLS (77-649Z)";nba-miniboard-chicago-bulls-77-649z;0;Base;;Entrainement;0;;0;1
+5097;3001587013817;0.000000;test;1;0;"NBA TEAM GOLDEN STATE SZ.7 (83-515Z)";nba-team-golden-state-sz7-83-515z;0;Base;;"Basketball Replica";0;;0;1
+5096;3001587013815;0.000000;test;1;0;"NBA TEAM GOLDEN STATE SZ.5 (83-587Z)";nba-team-golden-state-sz5-83-587z;0;Base;;"Basketball Replica";0;;0;1
+5095;3001587013517;0.000000;test;1;0;"NBA TEAM NY KNICKS SZ.7 (83-509Z)";nba-team-ny-knicks-sz7-83-509z;0;Base;;"Basketball Replica";0;;0;1
+5094;3001587013417;0.000000;test;1;0;"NBA TEAM BOSTON CELTICS SZ.7 (83-505Z)";nba-team-boston-celtics-sz7-83-505z;0;Base;;"Basketball Replica";0;;0;1
+5093;3001587013217;0.000000;test;1;0;"NBA TEAM L.A. LAKERS SZ.7 (83-510Z)";nba-team-la-lakers-sz7-83-510z;0;Base;;"Basketball Replica";0;;0;1
+5092;3001587013215;0.000000;test;1;0;"NBA TEAM L.A. LAKERS SZ.5 (83-585Z)";nba-team-la-lakers-sz5-83-585z;0;Base;;"Basketball Replica";0;;0;1
+5091;3001587011217;0.000000;test;1;0;"NBA TEAM CHICAGO BULLS SZ.7 (83-503Z)";nba-team-chicago-bulls-sz7-83-503z;0;Base;;"Basketball Replica";0;;0;1
+5090;3001587011215;0.000000;test;1;0;"NBA TEAM CHICAGO BULLS SZ.5 (83-583Z)";nba-team-chicago-bulls-sz5-83-583z;0;Base;;"Basketball Replica";0;;0;1
+5089;3001586017017;0.000000;test;1;0;"NBA PLAYER KYRIE IRVING SZ.7 (83-847Z)";nba-player-kyrie-irving-sz7-83-847z;0;Base;;;0;;0;1
+5088;3001586016017;0.000000;test;1;0;"NBA PLAYER JAMES HARDEN SZ.7 (83-845Z)";nba-player-james-harden-sz7-83-845z;0;Base;;"Basketball Replica";0;;0;1
+5087;3001586015017;0.000000;test;1;0;"NBA PLAYER STEPHEN CURRY SZ.7 (83-844Z)";nba-player-stephen-curry-sz7-83-844z;0;Base;;"Basketball Replica";0;;0;1
+5086;3001586015015;0.000000;test;1;0;"NBA PLAYER STEPHEN CURRY SZ.5 (83-866Z)";nba-player-stephen-curry-sz5-83-866z;0;Base;;"Basketball Replica";0;;0;1
+5085;3001579013017;0.000000;test;1;0;"NBA MINIBOARD LOGOMAN (77-602Z)";nba-miniboard-logoman-77-602z;0;Base;;;0;;0;1
+5084;3001565000116;0.000000;test;1;0;"TF33 OFFICIAL GAME BALL OUT (83-735Z)";tf33-official-game-ball-out-83-735z;0;Base;;;0;;0;1
+5083;3001565000016;0.000000;test;1;0;"TF33OFFICIAL GAME BALL I/O SZ6 (76-257Z)";tf33official-game-ball-i-o-sz6-76-257z;0;Base;;"Basketball match";0;;0;1
+5082;3001562013017;0.000000;test;1;0;"NBA NEVERFLAT OUTDOOR SZ.7 (63-803Z)";nba-neverflat-outdoor-sz7-63-803z;0;Base;;"Basketball match";0;;0;1
+5081;3001559031517;0.000000;test;1;0;"NBA PHANTOM STREET SZ.7 (83-954Z)";nba-phantom-street-sz7-83-954z;0;Base;;"Basketball match";0;;0;1
+5080;3001552021417;0.000000;test;1;0;"NBA MARBLE MC OUT SZ. 7 (83-636Z)";nba-marble-mc-out-sz-7-83-636z;0;Base;;"Basketball Replica";0;;0;1
+5079;3001550100316;0.000000;test;1;0;"NBA MARBLE 4HER OUT SZ.6 (83-879Z)";nba-marble-4her-out-sz6-83-879z;0;Base;;"Basketball Replica";0;;0;1
+5078;3001550100216;0.000000;test;1;0;"NBA MARBLE 4HER OUT SZ.6 (83-875Z)";nba-marble-4her-out-sz6-83-875z;0;Base;;"Basketball Replica";0;;0;1
+5077;3001550100117;0.000000;test;1;0;"NBA MARBLE MULTICOLOR OUT SZ.7 (83-883Z)";nba-marble-multicolor-out-sz7-83-883z;0;Base;;"Basketball Replica";0;;0;1
+5076;3001550100017;0.000000;test;1;0;"NBA MARBLE MULTICOLOR OUT SZ.7(83-882Z)";nba-marble-multicolor-out-sz783-882z;0;Base;;"Basketball Replica";0;;0;1
+5075;3001550029417;0.000000;test;1;0;"NBA HIGHLIGHT OUTDOOR SZ.7 (83-573Z)";nba-highlight-outdoor-sz7-83-573z;0;Base;;"Basketball entrainement";0;;0;1
+5074;3001550010717;0.000000;test;1;0;"NBA GRIP CONTROL IN/OUT SZ.7 (74-577Z)";nba-grip-control-in-out-sz7-74-577z;0;Base;;"Basketball match";0;;0;1
+5073;3001541010017;0.000000;test;1;0;"NBA LOGOMAN SGT SZ.7 (83-192Z)";nba-logoman-sgt-sz7-83-192z;0;Base;;"Basketball Replica";0;;0;1
+5072;3001531012037;0.000000;test;1;0;"NBA PLATINUM OUTDOOR SZ.7 (83-493Z)";nba-platinum-outdoor-sz7-83-493z;0;Base;;"Basketball match";0;;0;1
+5071;3001531010007;0.000000;test;1;0;"NBA TEAM COLLECTION SZ. 7 (83-649Z)";nba-team-collection-sz-7-83-649z;0;Base;;"Basketball Replica";0;;0;1
+5070;3001530011317;0.000000;test;1;0;"NBA NEVERFLAT IN/OUT SZ.7 (74-096Z)";nba-neverflat-in-out-sz7-74-096z;0;Base;;"Basketball match";0;;0;1
+5069;3001516000017;0.000000;test;1;0;"LNB TF350 SZ.7 (76-385Z)";lnb-tf350-sz7-76-385z;0;Base;;;0;;0;1
+5068;3001516000016;0.000000;test;1;0;"LNB TF350 SZ.6 (76-384Z)";lnb-tf350-sz6-76-384z;0;Base;;;0;;0;1
+5067;3001516000015;0.000000;test;1;0;"LNB TF350 SZ.5 (76-383Z)";lnb-tf350-sz5-76-383z;0;Base;;;0;;0;1
+5066;3001514011117;0.000000;test;1;0;"NBA PLATINUM LEGACY SZ.7 (76-017Z)";nba-platinum-legacy-sz7-76-017z;0;Base;;;0;;0;1
+5065;3001514010117;0.000000;test;1;0;"NBA PLATINUM LEGACY SZ.7 (74-558Z)";nba-platinum-legacy-sz7-74-558z;0;Base;;;0;;0;1
+5064;3001514010017;0.000000;test;1;0;"AllStar rubber Basketball 73-540Z";allstar-rubber-basketball-73-540z;0;Base;;;0;;0;1
+5063;3001513010616;0.000000;test;1;0;"WNBA GAME BALL SZ.6 (74-931Z)";wnba-game-ball-sz6-74-931z;0;Base;;"Basketball match";0;;0;1
+5062;3001513010017;0.000000;test;1;0;"Rebound in/out sz.7, (74-524Z)";rebound-in-out-sz7-74-524z;0;Base;;;0;;0;1
+5061;3001512010617;0.000000;test;1;0;"EUROLEAGUE TF1000 LEGACY SZ.7 (84-004Z)";euroleague-tf1000-legacy-sz7-84-004z;0;Base;;"Basketball match";0;;0;1
+5060;3001511010317;0.000000;test;1;0;"NBA GAME BALL REPLICA SZ.7 (83-385Z)";nba-game-ball-replica-sz7-83-385z;0;Base;;"Basketball Replica";0;;0;1
+5059;3001510010317;0.000000;test;1;0;"NBA GAME BALL SZ.7 (74-569Z)";nba-game-ball-sz7-74-569z;0;Base;;"Basketball match";0;;0;1
+5058;3001507030017;0.000000;test;1;0;"LNB TF150 SZ.7 (83-957Z)";lnb-tf150-sz7-83-957z;0;Base;;;0;;0;1
+5057;3001507030016;0.000000;test;1;0;"LNB TF150 SZ.6 (83-956Z)";lnb-tf150-sz6-83-956z;0;Base;;;0;;0;1
+5056;3001507030015;0.000000;test;1;0;"LNB TF150 SZ.5 (83-955Z)";lnb-tf150-sz5-83-955z;0;Base;;;0;;0;1
+5055;3001507030013;0.000000;test;1;0;"LNB TF150 SZ.3 (65-056Z)";lnb-tf150-sz3-65-056z;0;Base;;;0;;0;1
+5054;3001504011416;0.000000;test;1;0;"TF250 IN/OUT SZ.6 (74-584Z)";tf250-in-out-sz6-74-584z;0;Base;;"Basketball match";0;;0;1
+5053;3001504011217;0.000000;test;1;0;"TF250 IN/OUT SZ.7 (74-531Z)";tf250-in-out-sz7-74-531z;0;Base;;"Basketball match";0;;0;1
+5052;3001504011216;0.000000;test;1;0;"TF250 IN/OUT SZ.6 (74-532Z)";tf250-in-out-sz6-74-532z;0;Base;;"Basketball match";0;;0;1
+5051;3001504011215;0.000000;test;1;0;"TF250 IN/OUT SZ.5 (74-537Z)";tf250-in-out-sz5-74-537z;0;Base;;"Basketball match";0;;0;1
+5050;3001504010717;0.000000;test;1;0;"LNB TF1000 LEGACY SZ.7 (76-381Z)";lnb-tf1000-legacy-sz7-76-381z;0;Base;;"Basketball match";0;;0;1
+5049;3001504010617;0.000000;test;1;0;"NBA PLATINUM PRECISION SZ.7 (76-307Z)";nba-platinum-precision-sz7-76-307z;0;Base;;"Basketball match";0;;0;1
+5048;3001504010216;0.000000;test;1;0;"TF1000 LEGACY SZ.6 (74-496Z)";tf1000-legacy-sz6-74-496z;0;Base;;"Basketball match";0;;0;1
+5047;3001504010117;0.000000;test;1;0;"TF1000 LEGACY FIBA SZ.7 (74-450Z)";tf1000-legacy-fiba-sz7-74-450z;0;Base;;"Basketball match";0;;0;1
+5046;3001504010016;0.000000;test;1;0;"TF1000 LEGACY FIBA SZ.6 (74-451Z)";tf1000-legacy-fiba-sz6-74-451z;0;Base;;"Basketball match";0;;0;1
+5045;3001503040017;0.000000;test;1;0;"LNB TF500 SZ.7 (76-387Z)";lnb-tf500-sz7-76-387z;0;Base;;;0;;0;1
+5044;3001503040016;0.000000;test;1;0;"LNB TF500 SZ.6 (76-386Z)";lnb-tf500-sz6-76-386z;0;Base;;;0;;0;1
+5043;3001502010017;0.000000;test;1;0;"TF50 OUTDOOR SZ.7 (73-850Z)";tf50-outdoor-sz7-73-850z;0;Base;;"Basketball entrainement";0;;0;1
+5042;3001502010015;0.000000;test;1;0;"TF50 OUTDOOR SZ.5 (73-852Z)";tf50-outdoor-sz5-73-852z;0;Base;;"Basketball entrainement";0;;0;1
+5041;3001502010013;0.000000;test;1;0;"TF50 OUTDOOR SZ.3 (65-819Z)";tf50-outdoor-sz3-65-819z;0;Base;;"Basketball entrainement";0;;0;1
+5040;3001502010006;0.000000;test;1;0;"TF50 OUTDOOR SZ.6 (73-851Z)";tf50-outdoor-sz6-73-851z;0;Base;;"Basketball entrainement";0;;0;1
+5039;3001500300017;0.000000;test;1;0;"SPALDING NBA SZ. 7 (83-969Z)";spalding-nba-sz-7-83-969z;0;Base;;;0;;0;1
+5038;3001500200017;0.000000;test;1;0;"SPALDING NBA SZ. 7 (71-047Z)";spalding-nba-sz-7-71-047z;0;Base;;"Basketball Replica";0;;0;1
+5037;3001500200015;0.000000;test;1;0;"SPALDING NBA SZ. 5 (83-964Z)";spalding-nba-sz-5-83-964z;0;Base;;"Basketball Replica";0;;0;1
+5036;3001500100017;0.000000;test;1;0;"SPALDING LAYUP SZ. 7 (83-729Z)";spalding-layup-sz-7-83-729z;0;Base;;"Basketball entrainement";0;;0;1
+5035;3001500100015;0.000000;test;1;0;"SPALDING LAYUP SZ. 5 (63-727Z)";spalding-layup-sz-5-63-727z;0;Base;;"Basketball entrainement";0;;0;1
+5034;300980901;0.000000;test;1;0;"SERVIETTE DE BAIN GROS MARQUAGE";serviette-de-bain-gros-marquage;0;Base;;"Serviette de bain";0;;0;1
+5033;300980801;0.000000;test;1;0;"SERVIETTE DE BAIN";serviette-de-bain;0;Base;;"Serviette de bain";0;;0;1
+5032;300928902;0.000000;test;1;0;"PADDED SHOOTING SLEEVES";padded-shooting-sleeves;0;Base;;;0;;0;1
+5031;300928901;0.000000;test;1;0;"PADDED SHOOTING SLEEVES";padded-shooting-sleeves;0;Base;;;0;;0;1
+5030;300928302;0.000000;test;1;0;"POIGNETS ÉPONGE";poignets-eponge;0;Base;;"Poignet éponge";0;;0;1
+5029;300928301;0.000000;test;1;0;"POIGNETS ÉPONGE";poignets-eponge;0;Base;;"Poignet éponge";0;;0;1

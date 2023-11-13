@@ -1,0 +1,17 @@
+Dear merchant, one of your customers added own blog post in shop : {shop_name}
+
+Details of message:
+
+Customer Name: {name}
+
+Customer E-mail: {email}
+
+Blog post title: {title_post}
+
+Blog post content: {text}
+
+{categories}
+
+See this post here: {post_url}
+
+{shop_url} powered by PrestaShop™

@@ -1,0 +1,24 @@
+Bonjour {firstname} {lastname}, 
+
+Un rappel sur un ordre non rémunéré #{id_order}
+
+Nous vous remercions de votre commande sur {shop_name}, cependant, il est toujours impayée. S'il vous plaît examiner une facture jointe à ce courriel.
+
+Voici les détails:
+
+Référence de la commande: {order_reference}
+
+Date: {order_date}
+
+Vous pouvez accéder à tout moment au suivi de votre commande et télécharger votre facture dans "Historique des commandes" de la rubrique "Mon compte" sur notre site. 
+
+Si vous avez un compte invité, vous pouvez suivre votre commande dans la section "Suivi invité" de notre site. 
+
+
+
+{shop_name} réalisé avec PrestaShop™
+
+
+
+
+

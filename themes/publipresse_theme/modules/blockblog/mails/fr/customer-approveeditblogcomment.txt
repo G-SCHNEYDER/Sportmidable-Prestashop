@@ -1,0 +1,17 @@
+Hi {name},
+
+Admin reviewed your edited blog comment in the {shop_name}
+
+Details of blog comment:
+
+Rating: {rating}
+
+Comment: {text}
+
+Date Add: {time_add}
+
+Blog post {title_post}
+
+See this comment here: {com_url}
+
+{shop_url} powered by PrestaShop™

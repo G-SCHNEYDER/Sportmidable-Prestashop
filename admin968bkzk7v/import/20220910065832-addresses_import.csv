@@ -1,0 +1,20 @@
+Address ID;Alias*;Active (0/1);Customer e-mail*;Customer ID;Manufacturer;Supplier;Company;Lastname*;Firstname*;Address 1*;Address 2;Zipcode*;City*;Country*;State;Other;Phone;Mobile Phone;VAT number;DNI
+;alias;1;m.moeller@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE MARKETING;;;Chemin du viaduc 14 ;;1008;PRILLY;Suisse;;;0041 21 623 31 20;;;
+;alias;1;m.pattaroni@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE MARKETING;;;Chemin du viaduc 15;;1009;PRILLY;Suisse;;;42 21 623 31 20;;;
+;alias;1;a.beaujouan@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE MARKETING;;;Chemin du viaduc 16;;1010;PRILLY;Suisse;;;43 21 623 31 20;;;
+;alias;1;e.wyler@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE EVENT;;;Chemin du viaduc 17;;1011;PRILLY;Suisse;;;44 21 623 31 20;;;
+;alias;1;e.tiah@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE EVENT;;;Chemin du viaduc 18;;1012;PRILLY;Suisse;;;45 21 623 31 20;;;
+;alias;1;e.gavillet@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE SPONSOR;;;Chemin du viaduc 19;;1013;PRILLY;Suisse;;;46 21 623 31 20;;;
+;alias;1;s.mojonnet@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE LHC FONDATION;;;Chemin du viaduc 20;;1014;PRILLY;Suisse;;;47 21 623 31 20;;;
+;alias;1;n.komlenovic@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE TICKETING;;;Chemin du viaduc 21;;1015;PRILLY;Suisse;;;48 21 623 31 20;;;
+;alias;1;j.fedulov@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE SPONSOR;;;Chemin du viaduc 22;;1016;PRILLY;Suisse;;;49 21 623 31 20;;;
+;alias;1;c.leconte@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE MARKETING;;;Chemin du viaduc 23;;1017;PRILLY;Suisse;;;50 21 623 31 20;;;
+;alias;1;l.wolff@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE LHC GOURMET;;;Chemin du viaduc 24;;1018;PRILLY;Suisse;;;51 21 623 31 20;;;
+;alias;1;s.vanian@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE SPORT;;;Chemin du viaduc 25;;1019;PRILLY;Suisse;;;52 21 623 31 20;;;
+;alias;1;s.tereygeol@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE SPORT;;;Chemin du viaduc 26;;1020;PRILLY;Suisse;;;53 21 623 31 20;;;
+;alias;1;j.chastan@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE SALES;;;Chemin du viaduc 27;;1021;PRILLY;Suisse;;;54 21 623 31 20;;;
+;alias;1;a.gauci@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE SALES;;;Chemin du viaduc 28;;1022;PRILLY;Suisse;;;55 21 623 31 20;;;
+;alias;1;r.krieger@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE MARKETING;;;Chemin du viaduc 29;;1023;PRILLY;Suisse;;;56 21 623 31 20;;;
+;alias;1;g.brunner@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE TICKETING;;;Chemin du viaduc 30;;1024;PRILLY;Suisse;;;57 21 623 31 20;;;
+;alias;1;j.krueger@lausannehc.ch;;;;LAUSANNE HOCKEY CLUB - SERVICE SALES;;;Chemin du viaduc 31;;1025;PRILLY;Suisse;;;58 21 623 31 20;;;
+;;;;;;;LAUSANNE HOCKEY CLUB - SERVICE SPORT;;;Chemin du viaduc 32;;1026;PRILLY;Suisse;;;59 21 623 31 20;;;

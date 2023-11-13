@@ -1,0 +1,93 @@
+Titles ID (Mr = 1, Ms = 2, else 0);Email *;Password *;Last Name *;First Name *;Default group ID;ID ou nom de la boutique
+0;mymi.lau@wanadoo.fr;abcd12345;Courvoisier;Célia;36;139
+0;pagnier.cloe@orange.fr;abcd12345;Pagnier;Cloé;36;139
+0;sasadubois@hotmail.fr;abcd12345;Dubois;Salomée;36;139
+0;alicebourdin7@gmail.com;abcd12345;Bourdin;Alice;36;139
+0;sbillet.jouglet@orange.fr;abcd12345;Billet;Laila;36;139
+0;h.s.gloriod@orange.fr;abcd12345;Gloriod;Manon;36;139
+0;clmargreither@orange.fr;abcd12345;Margreither; Agathe;36;139
+0;nicolas.marguet@wanadoo.fr;abcd12345;Marguet;Louise;36;139
+0;couvalou@gmail.com;abcd12345;Couval;Marguerite;36;139
+0;jcnappey@orange.fr;abcd12345;Nappey;Romane;36;139
+0;primet.luc@laposte.net;abcd12345;Primet;Luc;36;139
+0;vincent.lil@free.fr;abcd12345;Vincent;Lennie;36;139
+0;pl.buet@icloud.com;abcd12345;Buet;Pierre Loic;36;139
+0;moreljerome@wanadoo.fr;abcd12345;Morel ; Victor;36;139
+0;Cabinetdressemonnier@gmail.com;abcd12345;Monnier;Clément;36;139
+0;belot.emmanuel0694@orange.fr;abcd12345;Belot;Elie;36;139
+0;i.taxil@laposte.net;abcd12345;Taxil;Isaie;36;139
+0;mymi.lau@wanadoo.fr;abcd12345;Courvoisier;Noé;36;139
+0;naillin@hotmail.fr;abcd12345;Maugain;Thimothé;36;139
+0;benjamin.millereau@laposte.net;abcd12345;Millereau;Simon;36;139
+0;rene.vernier0000@orange.fr;abcd12345;Vernier;Mathéo;37;139
+0;baudfrederic@neuf.fr;abcd12345;Baud;Romane;37;139
+0;guyballand@hotmail.com;abcd12345;Balland;Luc;37;139
+0;vdroz@wanadoo.fr;abcd12345;Droz-Vincent ;Marion;37;139
+0;d69@wanadoo.fr;abcd12345;Liardon;Marceau;37;139
+0;damien.paris216@orange.fr;abcd12345;Paris;Annaelle;37;139
+0;alexandre.begrand0098@orange.fr;abcd12345;Begrand;Maxence;37;139
+0;jerome.pagnier25@gmail.com;abcd12345;Pagnier;Simon;37;139
+0;florencevandel@yahoo.fr;abcd12345;Vandel;Gaby;37;139
+0;guy.jeantet@wanadoo.fr;abcd12345;Jeantet;Loa;37;139
+0;francky3975@gmail.com;abcd12345;Delval;Robin;37;139
+0;karinepaillat@yahoo.fr;abcd12345;Obez;Manek;37;139
+0;aureliadol@hotmail.com;abcd12345;Pourteau;Maxence;37;139
+0;laurentmela@orange.fr;abcd12345;Lecomte;Loris;37;139
+0;mangin.emilie@wanadoo.fr;abcd12345;Pingat;Laly;37;139
+0;favrot.deborah@orange.fr;abcd12345;Favrot;Simon;37;139
+0;delphinejeanprost@orange.fr;abcd12345;Jean Prost; Paul;38;139
+0;antoinerebouillat@gmail.com;abcd12345;Rebouillat ;Manoah;38;139
+0;xavier.lang1@orange.fr;abcd12345;Lang;Yanis;38;139
+0;guillaumenours@aol.com;abcd12345;Guillaume;Timéo;38;139
+0;dymayl2@googlemail.com;abcd12345;Laurent;Alessio;38;139
+0;johan@zeiler.net;abcd12345;Herring;Evan;39;139
+0;johan@zeiler.net;abcd12345;Herring;Téo;39;139
+0;rochetteac13@yahoo.com;abcd12345;Thirvaudey;Elsa;39;139
+0;touraines@iata.org;abcd12345;Touraine;Clara;39;139
+0;dixongoebel@wanadoo.fr;abcd12345;Dixon;Colin;39;139
+0;frederick.cool@orange.fr;abcd12345;Coulet;Maylis;40;139
+0;Edwige.morel39@gmail.com;abcd12345;Venturin;Emy;40;139
+0;farmadelafontaine@gmail.com;abcd12345;Barthod-Malat;Cyprien;40;139
+0;aurelie.ballot@wanadoo.fr;abcd12345;Ballot;Gauthier;40;139
+0;delphinelapierre@yahoo.fr;abcd12345;Lapierre;Paul;40;139
+0;yvdlooij@yahoo.fr;abcd12345;Van de Looij;Arthur;40;139
+0;seb.commerce@gmail.com;abcd12345;Fau;Zacharie;40;139
+0;valli.laetitia@wanadoo.fr;abcd12345;Lantenois;Lucas;40;139
+0;delphinelapierre@yahoo.fr;abcd12345;Lapierre;Simon;40;139
+0;arno.baron@wanadoo.fr;abcd12345;Baron;Kiara;40;139
+0;christophe@charmot.ch;abcd12345;Charmot;Amélie;40;139
+0;fa.colle@orange.fr;abcd12345;Colle;Lucie;40;139
+0;labafr@orange.fr;abcd12345;Perrier;Laurine;40;139
+0;charlotte.barthelet@hotmail.com;abcd12345;Barthelet;Charlotte;41;139
+0;gabriel.ballot@wanadoo.fr;abcd12345;Ballot;Gabriel;41;139
+0;martinet.jceti@orange.fr;abcd12345;Bouchet;Carole;41;139
+0;martinebourgon76@gmail.com;abcd12345;Bourgon;Martine;41;139
+0;stephane-cordier@orange.fr;abcd12345;Cordier;Severine;41;139
+0;csmj.president@gmail.com;abcd12345;Drezet;Elisabeth;41;139
+0;vanesg25@gmail.com;abcd12345;Jeannin;Vanessa;41;139
+0;langelarnaud@orange.fr;abcd12345;Langel;Arnaud;41;139
+0;gmglapierre@gmail.com;abcd12345;Lapierre;Guillaume;41;139
+0;catherine.mahon@sfr.fr;abcd12345;Mahon;Alain;41;139
+0;joel.pourchet@wanadoo.fr;abcd12345;Pourchet;Joël;41;139
+0;philippe-robert@neuf.fr;abcd12345;Robert;Philippe;41;139
+0;jr39@orange.fr;abcd12345;Rousseaux;Jacky;41;139
+0;eve.tissot@wanadoo.fr;abcd12345;Tissot;Eve;41;139
+0;yvan.michaud@orange.fr;abcd12345;Michaud Claret;Romain;42;139
+0;f.guy40@laposte.net;abcd12345;Guy;Flavio;42;139
+0;berthod.milene@neuf.fr;abcd12345;Bouillet;Enzo;42;139
+0;edwige.blanchard@laposte.net;abcd12345;Carlier;Léo;42;139
+0;stephanieroy@gmx.fr;abcd12345;Roy;Zélie;42;139
+0;b-cedric@orange.fr;abcd12345;Bouillet;Louna;42;139
+0;yohannetsophie@orange.fr;abcd12345;Cart Lamy;Lisa;42;139
+0;lubinamiotte@icloud.com;abcd12345;Amiotte;Lubin;42;139
+0;clambert1602@gmail.com;abcd12345;Dupont;Ilann;42;139
+0;carinedrezet@orange.fr;abcd12345;Drezet;Victor;42;139
+0;maxime.remonnay@orange.fr;abcd12345;Remonnay;Justin;42;139
+0;jcnappey@orange.fr;abcd12345;Nappey;Alexis;42;139
+0;pierrickpasteur@orange.fr;abcd12345;Pasteur;Pierrick;42;139
+0;julie17.baverel@gmail.com;abcd12345;Baverel;Julie;42;139
+0;esteban.javaux@gmail.com;abcd12345;Javaux;Esteban;42;139
+0;anna.blanc39@gmail.com;abcd12345;Blanc;Anna;42;139
+0;noemie.remonnay@laposte.net;abcd12345;Remonnay;Noémie;42;139
+0;"lisa.siberchicot@gmail.com
+";abcd12345;Siberchicot;Lisa;42;139

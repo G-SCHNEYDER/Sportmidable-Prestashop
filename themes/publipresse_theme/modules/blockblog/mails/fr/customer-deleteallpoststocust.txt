@@ -1,0 +1,5 @@
+Hi {name},
+
+Admin has deleted all your blog posts in the {shop_name}
+
+{shop_url} powered by PrestaShop™

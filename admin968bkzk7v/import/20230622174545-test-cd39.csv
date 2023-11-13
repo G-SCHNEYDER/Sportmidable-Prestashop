@@ -1,0 +1,2 @@
+Customer ID;Active (0/1);Titles ID (Mr = 1, Ms = 2, else 0);Email *;Password *;Last Name *;First Name *;Newsletter (0/1);Registration date (yyyy-mm-dd);Groups (x,y,z...);Default group ID;ID ou nom de la boutique
+;1;0;armellelarger@hotmail.fr;abcd12345;Larger;Lois;1;22/6/2023;;34;136
