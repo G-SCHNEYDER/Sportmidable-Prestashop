@@ -187,6 +187,8 @@ li.mm_menus_li.aviron-menu.mm_sub_align_full.hover {
 
 /* Fin modif Kevin */
 
+/* Changements global au thème */
+
 #everpspopup_block_center .container { width:auto; max-width:none; }
 
 * {
@@ -2290,6 +2292,13 @@ input::placeholder, textarea::placeholder {
 	height: inherit;
 }
 
+/* Module "Popup-Ever" rendu visuel */
+#everpspopup_block_center{
+	padding: 55px;
+    border-radius: 25px;
+    text-align: justify;
+}
+
 /* Lausanne HC Mobile Only */
 
 /* Forcing  */
@@ -2297,5 +2306,64 @@ input::placeholder, textarea::placeholder {
 	.lausanne-product-home .elementor-element-populated{
 		padding-right: 0px!important;
 		margin-bottom: 30px!important;
+	}
+}
+
+/* Lenzerheide */
+
+/* Spécifique à Creative Element */
+.lenzerheider-section-coupdecoeur .elementor-price{
+	font-size: 25px;
+}
+
+.lenzerheider-section-coupdecoeur .elementor-price::before{
+	content: "";
+}
+
+.lenzerheide-header-product-bloc .elementor-title{
+	color: #00004C!important;
+	text-transform: uppercase;
+	font-size: 40px;
+}
+
+.lenzerheide-header-product-bloc img{
+	max-height: 320px;
+}
+
+/* Lié au thème */
+
+.shop-lenzerheide .header-nav-utils-container{
+	width: 21%;
+}
+
+.shop-lenzerheide .product-price-and-shipping:before{
+	content: "";
+}
+
+/* Responsive lenzerheide */
+@media screen and (max-width: 768px) {
+	.shop-lenzerheide .mobile-logo{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 75px;
+		height: 75px;
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+
+	.shop-lenzerheide .header-nav .col-xs-8{
+		width: 38%;
+	}
+
+	.shop-lenzerheide #language-selector-label{
+		display: none;
+	}
+
+	.shop-lenzerheide .lenzerheide-title-slider span{
+		width: 70%;
+		display: inline-block;
+		font-size: 35px;
 	}
 }

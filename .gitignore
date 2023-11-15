@@ -122,6 +122,10 @@ themes/*/
 !themes/_core
 !themes/_libraries
 
+# DashBoard removed to give him specific repo
+
+TDB/
+
 # Vendors and dependencies
 
 bower_components/

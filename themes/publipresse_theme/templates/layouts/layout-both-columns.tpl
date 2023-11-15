@@ -75,7 +75,7 @@
 
     </head>
 
-    <body id="{$page.page_name}" class="{$page.body_classes|classnames}">
+    <body id="{$page.page_name}" class="{$page.body_classes|classnames} shop-{$shop.name|unescape|lower|strip:''}">
 
     {if $shop.name !== $xamaxShopName}
         <!-- Google Tag Manager (noscript) for all sites -->
