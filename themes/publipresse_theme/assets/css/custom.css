@@ -2340,6 +2340,14 @@ input::placeholder, textarea::placeholder {
 	content: "";
 }
 
+.shop-lenzerheide.lang-de .header-top-buttons-container .buttons-container a:nth-child(-n+3){
+	display: none;
+}
+
+.shop-lenzerheide.lang-fr .header-top-buttons-container .buttons-container a:nth-last-child(-n+3){
+	display: none;
+}
+
 /* Responsive lenzerheide */
 @media screen and (max-width: 768px) {
 	.shop-lenzerheide .mobile-logo{
