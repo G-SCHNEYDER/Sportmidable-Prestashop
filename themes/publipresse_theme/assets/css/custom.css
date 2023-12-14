@@ -2307,6 +2307,11 @@ input::placeholder, textarea::placeholder {
 		padding-right: 0px!important;
 		margin-bottom: 30px!important;
 	}
+
+	.shop-lausannehcboutique .elementor-element-9a3gi4q .elementor-text-editor p{
+		line-height: normal;
+		margin-top: 40px;
+	}
 }
 
 /* Lenzerheide */
@@ -2328,6 +2333,7 @@ input::placeholder, textarea::placeholder {
 
 .lenzerheide-header-product-bloc img{
 	max-height: 320px;
+	width: fit-content;
 }
 
 /* Lié au thème */
@@ -2373,5 +2379,21 @@ input::placeholder, textarea::placeholder {
 		width: 70%;
 		display: inline-block;
 		font-size: 35px;
+	}
+}
+
+/* BOUTIQUE BALLONS */
+
+@media screen and (max-width: 768px){
+	.shop-sportmidable #header .header-nav .right-nav {
+		justify-content: end;
+	}
+
+	.shop-sportmidable .elementor-5 .elementor-element.elementor-element-sporsrj{
+		background-size: contain;
+	}
+
+	.shop-sportmidable .elementor-row{
+		overflow-x: hidden;
 	}
 }

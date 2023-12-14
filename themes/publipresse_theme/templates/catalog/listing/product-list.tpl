@@ -55,12 +55,10 @@
     *}
     <section id="main" class="row mt-3">
 
-        {* Suppression ancienne colonne de filtre inutilisée *}
-        {* <div class="col-xs-12 col-sm-4 col-md-3">
+        <div class="col-xs-12 col-sm-4 col-md-3">
             {hook h="displayLeftColumn"}
-        </div> *}
-        {* <div class="left-column col-xs-12 col-sm-8 col-md-9"> *}
-        <div class="left-column col-md-12">
+        </div>
+        <div class="left-column col-xs-12 col-sm-8 col-md-9">
             <section id="products">
                 {if $listing.products|count}
                     <div>

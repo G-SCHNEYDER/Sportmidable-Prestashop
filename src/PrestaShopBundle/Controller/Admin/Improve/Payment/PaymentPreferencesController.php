@@ -100,6 +100,7 @@ class PaymentPreferencesController extends FrameworkBundleAdminController
             $paymentPreferences = $paymentPreferencesForm->getData();
 
             $errors = $paymentPreferencesFormHandler->save($paymentPreferences);
+
             if (empty($errors)) {
                 $this->addFlash('success', $this->trans('Successful update.', 'Admin.Notifications.Success'));
 

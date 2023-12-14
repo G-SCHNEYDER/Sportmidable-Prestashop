@@ -145,7 +145,7 @@
     </div>
   {/block}
 
-  {$HOOK_DISPLAYORDERDETAIL nofilter}
+  {*{$HOOK_DISPLAYORDERDETAIL nofilter}*}{*comment by B*}
 
   {block name='order_detail'}
     {if $order.details.is_returnable}
@@ -180,6 +180,9 @@
             {/foreach}
           </tbody>
         </table>
+        <div>
+        {*{l s='Estimated delivery date :' d='Modules.Yat_NkmExtends'} {$estimated_delivery_date}*}{*comment by B*}
+        </div>
         <div class="hidden-md-up shipping-lines">
           {foreach from=$order.shipping item=line}
             <div class="shipping-line">

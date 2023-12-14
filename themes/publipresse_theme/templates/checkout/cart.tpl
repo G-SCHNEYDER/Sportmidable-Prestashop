@@ -47,11 +47,10 @@
 						<i class="material-icons">chevron_left</i>{l s='Continue shopping' d='Shop.Theme.Actions'}
 					</a>
                 {/block}
-
 				<!-- shipping informations -->
-                {block name='hook_shopping_cart_footer'}
+                {*{block name='hook_shopping_cart_footer'}
                     {hook h='displayShoppingCartFooter'}
-                {/block}
+                {/block}*}
 			</div>
 
 			<!-- Right Block: cart subtotal & cart total -->

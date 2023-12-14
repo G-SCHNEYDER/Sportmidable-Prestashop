@@ -94,8 +94,9 @@ class Tab
      */
     private $icon;
 
+    // Replacing mappedBy="tab" by mappedBy="id" to prevent 1.7 error in TabLang
     /**
-     * @ORM\OneToMany(targetEntity="PrestaShopBundle\Entity\TabLang", mappedBy="tab")
+     * @ORM\OneToMany(targetEntity="PrestaShopBundle\Entity\TabLang", mappedBy="id")
      */
     private $tabLangs;
 

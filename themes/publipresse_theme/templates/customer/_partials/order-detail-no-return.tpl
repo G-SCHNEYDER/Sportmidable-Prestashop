@@ -29,6 +29,7 @@
         <tr>
           <th>{l s='Product' d='Shop.Theme.Catalog'}</th>
           <th>{l s='Quantity' d='Shop.Theme.Catalog'}</th>
+          <th>{l s='Livraison ' d='Shop.Theme.Catalog'}</th>{*add by b*}
           <th>{l s='Unit price' d='Shop.Theme.Catalog'}</th>
           <th>{l s='Total price' d='Shop.Theme.Catalog'}</th>
         </tr>
@@ -144,6 +145,7 @@
               {$product.quantity}
             {/if}
           </td>
+          <td>{widget name='advanceddateofdelivery' hook='displayOrderDetail' product=$product}{*add by b*}</td>
           <td class="text-xs-right">{$product.price}</td>
           <td class="text-xs-right">{$product.total}</td>
         </tr>
@@ -152,13 +154,15 @@
         {foreach $order.subtotals as $line}
           {if $line.value}
             <tr class="text-xs-right line-{$line.type}">
-              <td colspan="3">{$line.label}</td>
+              {*<td colspan="3">{$line.label}</td>*}{*comment by B*}
+              <td colspan="4">{$line.label}</td>{*add by B*}
               <td>{$line.value}</td>
             </tr>
           {/if}
         {/foreach}
         <tr class="text-xs-right line-{$order.totals.total.type}">
-          <td colspan="3">{$order.totals.total.label}</td>
+          {*<td colspan="3">{$order.totals.total.label}</td>*}
+          <td colspan="4">{$order.totals.total.label}</td>{*add by B*}
           <td>{$order.totals.total.value}</td>
         </tr>
       </tfoot>

@@ -173,6 +173,16 @@
 
 				</div>
 			</div>
+			{*add by*}
+			{if $product.id_product}
+				{widget name='advanceddateofdelivery' hook='displayShoppingCartFooter' product=$product}
+			{/if}
+			<style>
+				.advanceddateofdelivery_container {
+					padding: 16px 0px 16px 0px;
+				}
+			</style>
+			{*add by*}
 		</div>
 	</div>
 

@@ -2330,3 +2330,9 @@ input::placeholder, textarea::placeholder {
 	width: inherit;
 	height: inherit;
 }
+
+/* Bandeau noel spécifique à lets go fitness */
+
+#bandeau_christmas_container .bandeau_text{
+	font-family: 'Futura Std', sans-serif;
+}
