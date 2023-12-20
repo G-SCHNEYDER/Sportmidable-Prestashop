@@ -54,14 +54,19 @@ You should NOT edit any other exisiting back-office CSS file manually: they are 
 
 /* BO login page */
 .bootstrap #shop-img {
-    width: 150px;
+    width: 420px;
+    top: 40px;
 }
+
 .bootstrap #shop-img img {
-    width: 150px;
+    width: 100%;
 }
+
 .bootstrap #login-panel .flip-container {
     margin-top: 160px;
 }
 #header_infos #header_logo {
     background: url('../img/logo_sportmidable_bo.png') no-repeat 0;
+    background-position: center;
+    background-size: cover;
 }
