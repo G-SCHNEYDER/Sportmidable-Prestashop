@@ -47,7 +47,7 @@
 		<div class="alert alert-warning">{$warningSslMessage}</div>
 		{/if}
 	</div>
-	<div id="shop-img"><img src="{$img_dir}sportmidable-logo.png" alt="{$shop_name}" /></div>
+	<div id="shop-img"><img src="{$img_dir}sportmidable_logo.png" alt="{$shop_name}" /></div>
 	<div class="flip-container">
 		<div class="flipper">
 			<div class="front front_login panel" {if isset($reset_token) && isset($id_employee)}style="display:none;"{/if}>

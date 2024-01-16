@@ -54,12 +54,11 @@ You should NOT edit any other exisiting back-office CSS file manually: they are 
 
 /* BO login page */
 .bootstrap #shop-img {
-    width: 420px;
-    top: 40px;
+    width: 150px;
 }
 
 .bootstrap #shop-img img {
-    width: 100%;
+    width: 150px;
 }
 
 .bootstrap #login-panel .flip-container {
