@@ -112,10 +112,10 @@
   {* begin  HEADER *}
   <header id="header" class="bootstrap">
     <nav id="header_infos" role="navigation">
-      <i class="material-icons js-mobile-menu">menu</i>
-
+      <i class="material-icons js-mobile-menu">menu</i> 
+      
       {* Logo *}
-      <a id="header_logo" href="{$default_tab_link|escape:'html':'UTF-8'}"></a>
+      <a id="header_logo" {if $shop_group->name == "Boutique B2B"}class="logo_sprinter"{/if} href="{$default_tab_link|escape:'html':'UTF-8'}"></a>
 
       {* Quick access *}
       <div id="header_quick" class="component">

@@ -29,7 +29,6 @@ You should NOT edit any other exisiting back-office CSS file manually: they are 
 
 .status-3 td {
     background-color: #ff5050 !important; /* red */
-
 }
 
 .status-5 td {
@@ -64,8 +63,13 @@ You should NOT edit any other exisiting back-office CSS file manually: they are 
 .bootstrap #login-panel .flip-container {
     margin-top: 160px;
 }
+
 #header_infos #header_logo {
     background: url('../img/logo_sportmidable_bo.png') no-repeat 0;
     background-position: center;
     background-size: cover;
+}
+
+#header_infos #header_logo.logo_sprinter {
+    background-image: url('../img/logo_sportmidable_bo_sprinter.png');
 }
