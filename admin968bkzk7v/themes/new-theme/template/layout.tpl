@@ -14,7 +14,7 @@
 
       {* Logo *}
       <i class="material-icons js-mobile-menu">menu</i>
-      <a id="header_logo" class="logo float-left" href="{$default_tab_link|escape:'html':'UTF-8'}"></a>
+      <a id="header_logo" class="{if $shop_group->name == "Boutique B2B"}logo_sprinter{/if} logo float-left" href="{$default_tab_link|escape:'html':'UTF-8'}"></a>
       <span id="shop_version">{$ps_version}</span>
 
       <div class="component" id="quick-access-container">

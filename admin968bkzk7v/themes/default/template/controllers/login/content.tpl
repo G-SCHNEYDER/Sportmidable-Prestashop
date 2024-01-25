@@ -24,8 +24,8 @@
  *}
 <div id="login-panel">
 	<div id="login-header">
-		<h1 class="text-center">Solution SPORTMIDABLE</h1>
-		<div class="text-center">[ votre club en grand ]</div>
+		{* <h1 class="text-center">Solution SPORTMIDABLE</h1>
+		<div class="text-center">[ votre club en grand ]</div> *}
 		<div id="error" class="hide alert alert-danger">
 		{if isset($errors)}
 			<h4>
@@ -51,7 +51,7 @@
 	<div class="flip-container">
 		<div class="flipper">
 			<div class="front front_login panel" {if isset($reset_token) && isset($id_employee)}style="display:none;"{/if}>
-				<h4 id="shop_name">{$shop_name}</h4>
+				{* <h4 id="shop_name">{$shop_name}</h4> *}
 				{if !isset($wrong_folder_name) && !isset($wrong_install_name)}
 				<form action="#" id="login_form" method="post">
 					<input type="hidden" name="redirect" id="redirect" value="{$redirect}"/>

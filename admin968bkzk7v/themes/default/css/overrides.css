@@ -64,12 +64,30 @@ You should NOT edit any other exisiting back-office CSS file manually: they are 
     margin-top: 160px;
 }
 
+/* Override Force for BO front */
 #header_infos #header_logo {
     background: url('../img/logo_sportmidable_bo.png') no-repeat 0;
-    background-position: center;
-    background-size: cover;
+    background-position: 40% 50%;
+    background-size: 72%;
+    background-color: #0E3A5D;
 }
 
 #header_infos #header_logo.logo_sprinter {
     background-image: url('../img/logo_sportmidable_bo_sprinter.png');
+}
+
+  
+.main-header #shop_version{
+    top: unset!important;
+    bottom: -1px;
+    left: 178px!important;
+    color: white;
+}
+  
+.nav-bar, .category-title>.title{
+    background: #0E3A5D!important;
+}
+  
+.main-menu .link-levelone>.submenu, .main-menu .link-leveltwo>.submenu, .main-menu .-active.link-leveltwo .link, .main-menu .link-levelone.-active .link, .main-menu .link-levelone.ul-open .link, .main-menu .ul-open.link-leveltwo .link{
+    background: #082338!important;
 }
